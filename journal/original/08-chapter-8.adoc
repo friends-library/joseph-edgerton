@@ -441,9 +441,6 @@ Joseph Edgerton.
 
 --
 
-[.asterism]
-'''
-
 [.embedded-content-document.letter]
 --
 
@@ -523,9 +520,6 @@ to whom I desire a message of dear love in our Lord Jesus Christ.
 Joseph Edgerton.
 
 --
-
-[.asterism]
-'''
 
 [.embedded-content-document.letter]
 --

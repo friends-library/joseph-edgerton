@@ -330,6 +330,7 @@ Joseph Edgerton.
 
 --
 
+[.offset]
 He again writes to the same, under following date, an extract being as follows:
 
 [.embedded-content-document.letter]
@@ -465,9 +466,6 @@ Your affectionate father,
 Joseph Edgerton.
 
 --
-
-[.asterism]
-'''
 
 [.embedded-content-document.letter]
 --
