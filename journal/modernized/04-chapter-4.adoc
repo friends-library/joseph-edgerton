@@ -1,7 +1,7 @@
 == Chapter IV.
 
-Visit to the Yearly Meetings of Philadelphia, New York and New England;
-Extending to New Brunswick and Nova Scotia.
+[.chapter-synopsis]
+Visit to the Yearly Meetings of Philadelphia, New York and New England; Extending to New Brunswick and Nova Scotia.
 
 Having for some time felt my mind drawn to travel to the eastward,
 I opened a prospect thereof in our Monthly Meeting, in the First Month, 1839;
@@ -46,9 +46,16 @@ and praise unto Him who is the Helper of his people.
 
 Extract of a letter to his wife, as follows:
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Second-day morning, 15th of Fourth Month, 1839.
 
-My dear Wife:--My heart overflows with that tender love,
+[.salutation]
+My dear Wife:
+
+My heart overflows with that tender love,
 which has been experienced by us reciprocally,
 whereby we are each enabled to enter into feeling for the other;
 and truly I have thought, I stand in need of your sympathy and prayers.
@@ -84,7 +91,10 @@ where we may have a place in the minds of the Lord's faithful children,
 who abide with the seed of life, though it may be in suffering, that in his own time,
 we may reign with Him, and be one another's joy in the Lord.
 
+[.signed-section-signature]
 Joseph Edgerton.
+
+--
 
 Second-day, the Meeting for Discipline commenced; which, though trying to the living,
 He who gathered us to be a people, was pleased to extend his preserving Arm around,
@@ -137,7 +147,7 @@ First-day, at Haddonfield and New Town; the latter silent, and I thought it a lo
 
 Second-day, 29th, at Woodbury, to satisfaction; and lodged at Joseph Whitall's;
 a valuable Friend and minister.
-Third-day, went in company with J. W., to Piles grove, n. small poor meeting.
+Third-day, went in company with J. W., to Piles grove, a small poor meeting.
 Fourth-day, 1st of Fifth Month, at Salem Monthly Meeting, to satisfaction;
 rode to John Sheppard's and attended Monthly Meeting on Fifth-day.
 Rode to William Scattergood's and had an evening meeting at Millville,
@@ -145,7 +155,7 @@ and a humble hope was granted that the cause of Truth did not suffer by it.
 
 Having felt my mind exercised about a meeting at Port-Elizabeth, there was one appointed,
 and we rode to said place, which proved a relieving opportunity.
-Seventh-day, rode to Grcat-Egg-Harbor, and attended that meeting on First-dny forenoon,
+Seventh-day, rode to Grcat-Egg-Harbor, and attended that meeting on First-day forenoon,
 and Galloway in the afternoon, to the peace of my mind.
 Third-day, at meeting at Little-Egg-Harbor, which was an open time.
 Fourth-day, at Barnegat.
@@ -164,9 +174,16 @@ Rode to Plainfield, and attended meeting there on First-day forenoon,
 and at Rahway in the afternoon.
 Second-day, rode to New York to John Wood's, and wrote; an extract of which is as follows:
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 New York, Fifth Month 20th, 1839.
 
-My dearly beloved Wife:--My spirit salutes you in that
+[.salutation]
+My dearly beloved Wife:
+
+My spirit salutes you in that
 sweet unity which often runs through my heart unto you,
 even a portion of that love wherewithal you are loved of our Heavenly Father; desiring,
 as for myself, that "`the eternal God may be your refuge,
@@ -234,7 +251,10 @@ my dear children, in the path of virtue,
 and thereby add a little to the strength of your dear mother,
 in the arduous task that devolves upon her, my desire will be answered.
 
+[.signed-section-signature]
 Joseph Edgerton.
+
+--
 
 Third-day, 21st of Fifth Month, crossed over to Long Island,
 and was at meeting at Westbury the next day--a good time.
@@ -279,7 +299,7 @@ if I was favored with a true sense of the state of the meeting.
 First-day, were at New Milford, which was an open time in testimony,
 though the life of Truth did not rise so high as at some seasons.
 Rode to Hartford;
-and feeling my mind drawn to have a meeting there in a house be longing to Friends,
+and feeling my mind drawn to have a meeting there in a house belonging to Friends,
 we accordingly had one appointed, and though very small,
 the reward of peace was given for this act of dedication.
 Set out in the afternoon towards Providence, where we arrived on Fourth-day evening,
@@ -295,7 +315,7 @@ Seventh-day, at the Select Yearly Meeting; rather a low time.
 A few words near the conclusion, to the relief of my mind,
 and to the satisfaction of faithful Friends.
 
-First-day, at public meeting at Portsmouth in the fore noon,
+First-day, at public meeting at Portsmouth in the forenoon,
 wherein the doctrines of the Gospel were opened, I trust, in some degree of authority.
 In the afternoon, at Newport; silent, as to myself,
 but Elizabeth Robson and John Wood were acceptably engaged.
@@ -320,7 +340,7 @@ and feeling my mind drawn towards the inhabitants of Westport,
 we had a meeting appointed there in the evening.
 We crossed over in a boat, the river being a mile wide; and owing to the tide being down,
 we had some anxiety lest we should not get over in time, but we succeeded well,
-and reached the place in good season, to which a consider able number came,
+and reached the place in good season, to which a considerable number came,
 who were quiet and orderly;
 and through the continued mercy of the "`Shepherd of Israel,`" we had a good meeting.
 
@@ -332,7 +352,7 @@ In the Meeting for Discipline,
 my mind was much exercised on account of the low state of things amongst them,
 but was favored in a close manner to throw off the burden.
 
-Fifth-day, attended the Monthly Meeting of New Bed ford, which was a very exercising time.
+Fifth-day, attended the Monthly Meeting of New Bedford, which was a very exercising time.
 My mouth was sealed until in the Meeting for Discipline, way was made tor my relief.
 Feeling drawn to visit Women's Meeting, it was readily granted,
 which also conduced to my relief;
@@ -358,9 +378,16 @@ a distance of forty miles, where we arrived at Prince Gardner's, who met us at t
 
 Here he writes to his wife, as follows:
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Nantucket, Seventh Month 2nd, 1839.
 
-My dear Wife:--In that near and tender affection which time nor distance can erase,
+[.salutation]
+My dear Wife:
+
+In that near and tender affection which time nor distance can erase,
 I again salute you, under a lively remembrance of your affectionate kindness,
 as also your sympathy and travail of spirit with me in this arduous engagement,
 being a companion in tribulation in the Gospel;
@@ -391,7 +418,10 @@ are willing to submit to his restraining power;
 to these He gives the rich reward of peace,
 even a reward that the world cannot give nor take away.
 
+[.signed-section-signature]
 Joseph Edgerton.
+
+--
 
 Fourth-day, at the Select Quarterly Meeting;
 a time of close exercise in "`searching the camp.`"
@@ -436,9 +466,16 @@ May my soul bow before Him to whom all praise is due.
 
 The following is an extract of a letter written to P. and A. S., at this place:
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Seventh Month 12th, 1839.
 
-Dear Uncle and Aunt:--Having a little leisure this evening,
+[.salutation]
+Dear Uncle and Aunt:
+
+Having a little leisure this evening,
 after a travel of thirty-eight miles today; and something, I trust,
 of that feeling of unity which has been our experience in days past to flow towards you,
 as also your children, I write.
@@ -460,7 +497,7 @@ that all the praise may be given unto Him who is "`Head over all things to his C
 
 Notwithstanding the state of the church is such (if I have had a true sense
 of it) that in many places the mournful language would be applicable,
-"`By whom hall Jacob arise, for he is small;`" yet a remnant is preserved,
+"`By whom shall Jacob arise, for he is small;`" yet a remnant is preserved,
 and appears firmly attached to the good old way--the
 way of Truth as professed by our religious Society;
 that it affords hope in the midst of discouragement.
@@ -481,18 +518,22 @@ and in much harmony, except that of the abolition of slavery,
 in which a spirit appeared that wanted more liberty to
 join in the popular associations of the world.
 But through holy help, it was in a good degree chained down,
-and the meeting issued suit able advice to its members
+and the meeting issued suitable advice to its members
 similar to that given forth by our own Yearly Meeting.
 
+[.signed-section-closing]
 I remain your friend,
 
+[.signed-section-signature]
 Joseph Edgerton.
+
+--
 
 Seventh-day, had a meeting at Mansfield, which was an open time.
 Rode to Providence in the afternoon,
 and were at the Boarding-school on First-day morning to satisfaction;
 and in the evening at Friends' Meeting house, which was a time of close baptism;
-though feeling, as I thought, u little opening to arise,
+though feeling, as I thought, a little opening to arise,
 I delivered what appeared to be right, but felt no relief thereby.
 May I be preserved in the hollow of the Lord's holy hand.
 
@@ -539,7 +580,7 @@ and feeling drawings in my mind to Warwick, had a meeting there in the evening,
 which was a season of renewed favor.
 May the Lord be praised for all his works, for He alone is worthy.
 
-Sixth-day, attended Greenwich and Wickford, to satis faction;
+Sixth-day, attended Greenwich and Wickford, to satisfaction;
 the former would have been more so had due care
 been taken in extending notice as desired.
 
@@ -575,12 +616,12 @@ I am convinced there is no other; may the Lord strengthen you in the work.
 I have been comforted, I can truly say, though I feel that I am an unprofitable servant.`"
 May the praise be given to Him who is our adorable Leader,
 for his works alone can praise Him.
-Crossed over to Rhode Island, in order to attend the Quarterly Meeting at Ports mouth;
+Crossed over to Rhode Island, in order to attend the Quarterly Meeting at Portsmouth;
 lodged at John Mitchell's, and attended the Select Meeting on Fourth-day,
 which was a very exercising time.
 
 Fifth-day, 1st of Eighth Month.--Attended the Quarterly Meeting.
-My mind was clothed with mourning, be cause of the low state of the Church;
+My mind was clothed with mourning, because of the low state of the Church;
 but was favored to find relief.
 Rode to Fall River in the afternoon, and lodged at Thomas Wilbur's,
 who has been very agreeably with us for several days.
@@ -595,7 +636,7 @@ First-day, attended Uxbridge and Northbridge Meetings;
 and if I was favored with a true sense of the state thereof, religion is at a low ebb,
 though there is a seeking remnant; and, I hope, to these they were profitable seasons.
 When about to leave our lodging-place in the morning, it seemed to me unsafe to proceed,
-as I felt my mind drawn towards a company of persons who had be come uneasy
+as I felt my mind drawn towards a company of persons who had become uneasy
 with the forms and creaturely activity of the Methodist society,
 and had been in the practice of meeting together in silence to wait upon God.
 We had a meeting among them at 10 o'clock.
@@ -623,12 +664,12 @@ though in some honest labor among them, I felt peace.
 On setting forward early the next morning, it was, as to the outward,
 a morning without clouds.
 The whole creation wore a beautiful appearance; and through Divine mercy,
-the in ward bore a near resemblance thereto.
+the inward bore a near resemblance thereto.
 An awful silence covered my mind;
 and the sweet distillations of the heavenly dew refreshed my spirit.
 My dear wife and children were brought near, and through immediate help,
 ability was received to again intercede on her
-behalf in the var ious trials which attend her,
+behalf in the various trials which attend her,
 that He who has been pleased to cause this separation,
 might be near to support and comfort her by his good spirit.
 Oh, the breathings of my soul on her behalf, as also that of our dear children,
@@ -637,7 +678,7 @@ and cause the seed of the Kingdom to grow in their hearts.
 This centered in again committing them to his protecting care,
 whose mercies are indeed over all his works.
 Many of my dear friends at, and about home, came separately and collectively,
-fresh in my remembrance, with living aspirations on their be half.
+fresh in my remembrance, with living aspirations on their behalf.
 Tears flowed for miles, while Divine and heavenly harmony pervaded my mind.
 May my soul bow before Him, and offer the tribute of thanksgiving and praise.
 
@@ -651,9 +692,16 @@ to be held there, where we arrived on Third-day evening, and were kindly receive
 
 Here he wrote to his wife, as follows:
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Eighth Month 14th, 1839.
 
-My dear and precious Wife:--I again salute you in near and tender affection,
+[.salutation]
+My dear and precious Wife:
+
+I again salute you in near and tender affection,
 which is unabated, though a vast distance separates us,
 and at this time runs through my heart to you and our dear children.
 I received your very acceptable letter, which was like a brook by the way,
@@ -691,9 +739,13 @@ the young people are soaring above the Divine witness in their own minds.
 I have felt it my duty to deal plainly with them,
 delivering what appeared to be the "`whole counsel.`"
 
+[.signed-section-closing]
 In dear love, etc,
 
+[.signed-section-signature]
 Joseph Edgerton.
+
+--
 
 Fourth-day, attended the select Quarterly Meeting at Salem,
 which was a time of close searching of heart.
@@ -725,10 +777,10 @@ She feeling a concern towards the ministers and elders of this place,
 I united with her therein, which opportunity, I hope will not soon be forgotten.
 Taking leave of many dear friends, in near affection, we rode to West Newbury, and lodged.
 
-Seventh-day, at meeting there in the forenoon, to satis faction,
+Seventh-day, at meeting there in the forenoon, to satisfaction,
 and at Amesbury in the afternoon,
 and although my mind underwent much exercise on account
-of a mis take in the notice of the hour of meeting,
+of a mistake in the notice of the hour of meeting,
 I felt the life to arise towards the close, and the meeting ended well.
 
 At Seabrook the life of religion was at a low ebb,
@@ -738,7 +790,7 @@ I left in peace, and rode to Epping, and lodged.
 Second-day, had a meeting there, a time of favor, I trust, to some.
 Third-day, attended Monthly Meeting at Dover, which was a low, trying time;
 and feeling my mind drawn to have a public meeting,
-notice was given for one in the evening, which was also trying and labor ious;
+notice was given for one in the evening, which was also trying and laborious;
 my faith seemed almost to fail for a time,
 but through divine mercy ability was experienced to leave the exercise with them.
 
@@ -751,14 +803,14 @@ was much affected with the unsettlement which occurred at the closing of the shu
 occasioned by the greater part of the meeting going out;
 which I have noticed to be much the case in many places.
 I found it my duty to tell them of it,
-and to show them the dL-ad vantage it was to such meetings.
+and to show them the disadvantage it was to such meetings.
 Meetings for Discipline are not viewed by many with
 that dignity that is consistent with the subject.
 O, that Zion might arise and shake herself from the dust of the earth!
 I think I never was so filled with mourning over her,
-on account of the spirit of the world which has blinded the minds of I many,
+on account of the spirit of the world which has blinded the minds of many,
 as since being in this land;
-and yet renewed evidences are granted of the continued care of the Shepherd I of Israel,
+and yet renewed evidences are granted of the continued care of the Shepherd of Israel,
 in visiting again and again for our restoration.
 
 Sixth-day, at Oakwoods and Elliot.
@@ -783,9 +835,16 @@ Through holy help I was favored to relieve my mind, though clothed with mourning
 
 He again writes to his wife, as follows:
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Eighth Month 24th, 1839.
 
-My dearly beloved Wife:--I received your very welcome messenger,
+[.salutation]
+My dearly beloved Wife:
+
+I received your very welcome messenger,
 the value of which can only be estimated by
 those who have been placed in like circumstances.
 I may inform you that my dear companion received
@@ -802,7 +861,7 @@ but the feeling I had for his family was such
 that I could not hold him from going to see them,
 with a prospect of his returning should it appear to be right.
 I feel the loss, but the blessed Master has been pleased to be near.
-Do n it he too much concerned about it, for I am among very kind friends.
+Do not be too much concerned about it, for I am among very kind friends.
 I have the company of John Buffum, of North Berwick,
 and I trust I shall be favored to get along.
 If my gracious Master will be pleased to continue to preserve and support me,
@@ -832,7 +891,10 @@ She said the Lord had been good to her.
 I thought her case a remarkable one.
 Her name is Sarah Purbeck.
 
+[.signed-section-signature]
 Joseph Edgerton.
+
+--
 
 First-day, at Meadsborough, which was an open time.
 At New Durham in the evening, to satisfaction.
@@ -863,7 +925,7 @@ this being the day of our Select Yearly Meeting.
 May our Holy Head he near to strengthen and refresh them by his life-giving presence,
 enabling them again and again to rejoice therein, that the whole heritage may be watered,
 and Zion arise in her ancient beauty.
-Oh! may you be pleased t« arise in power,
+Oh! may you be pleased to arise in power,
 and scatter the clouds that hang over your heritage, for "`strong is your hand,
 and high is your right hand;`" that your people may, through your power,
 go forth in your great and glorious work, that your poor, who depend on you,
@@ -877,7 +939,7 @@ Amen.
 
 First-day, 1st of Ninth Month.--We attended meeting at Parsonsfield, to satisfaction:
 and in the afternoon were at Limington Meeting, which was large,
-many of the in habitants of the town coming in.
+many of the inhabitants of the town coming in.
 For a time there seemed to be very little settlement of mind,
 so that my faith almost failed me;
 but as I endeavored to centre my mind on my gracious Master, a little light sprang up,
@@ -932,10 +994,17 @@ and think of laying it before the select member tomorrow.
 
 Here follows an extract of a letter, written to his wife at this time.
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Vassalborough, State of Maine, Ninth Month 12th, 1839.
 
-My dearly beloved Wife:--I again resume the only method in my power
-of paying the tribute that tender We prompts me very strongly to,
+[.salutation]
+My dearly beloved Wife:
+
+I again resume the only method in my power
+of paying the tribute that tender love prompts me very strongly to,
 and may inform you that my health is good;
 and having taken it a little more leisurely for some days past, feel rested.
 Your acceptable letter, together with one from brother John,
@@ -992,7 +1061,10 @@ feeling nearly united in the covenant of life, wherein I rest your loving husban
 and companion in tribulations, and in some degree, I trust,
 of the "`faith and patience of Jesus Christ.`"
 
+[.signed-section-signature]
 Joseph Edgerton.
+
+--
 
 Left my dear friend, Daniel Taber's, and rode to China to a meeting,
 in the forenoon of Sixth-day; and in the afternoon, to South China;
@@ -1015,7 +1087,7 @@ May the Lord's name be praised, for it is his own works alone that can praise Hi
 
 Second-day, attended Monthly Meeting at Brooks; a time of favor.
 Dear T. and E. Robson were present.
-Attended a meeting of E Robson's, in the evening, which was large, and, I trust,
+Attended a meeting of E. Robson's, in the evening, which was large, and, I trust,
 a profitable season to some.
 
 Third-day, at China Monthly Meeting, which was an exercising time;
@@ -1023,10 +1095,10 @@ but through the Lord's mercy, relief was obtained.
 
 Fourth-day, at Vassalborough Monthly Meeting, held at East Pond,
 which was a time of renewed exercise; yet, through the Lord's mercy,
-peace was the reward for al lotted service.
+peace was the reward for allotted service.
 
 Fifth-day, at Monthly Meeting at Fairfield, to satisfaction.
-Sixth-day, set out towards the Province of New Bruns wick,
+Sixth-day, set out towards the Province of New Brunswick,
 in company with my dear friend, James Jones,
 in accordance with our afore-mentioned prospect,
 with Stephen Jones as assistant companion.
@@ -1053,7 +1125,7 @@ which the Lord has pitched,
 and not man,`" able to open unto them the mysteries of the Kingdom.
 The meeting ended well.
 May the Lord be pleased to be near and strengthen them to walk in his ways.
-I felt glad ill believing that the Lord is
+I felt glad in believing that the Lord is
 visiting even in the remote corners of the earth.
 
 25th.--Had a meeting in the evening in a neighborhood
@@ -1104,9 +1176,16 @@ chimneys built, plastered, etc, making a comfortable house.
 
 Here he wrote to his wife, from which the following extract is taken:
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 St. Johns, Province of New Brunswick, Tenth Month 3rd, 1839.
 
-My dearly beloved Wife:--I again resort to the only means in
+[.salutation]
+My dearly beloved Wife:
+
+I again resort to the only means in
 my power of communicating to you the tenderest feelings that
 flow from the heart of an absent bosom friend;
 and may inform you, my health is good, for which I desire ever to be thankful;
@@ -1154,9 +1233,14 @@ Attend to these impressions, dear children,
 and you will be a comfort to your dear mother; and the Lord will bless you,
 and bring you forward in the way in which He would have you to walk, to your own peace.
 I must conclude, having a meeting appointed at this place this evening.
+
+[.signed-section-closing]
 I remain, your loving husband,
 
+[.signed-section-signature]
 Joseph Edgerton.
+
+--
 
 4th.--Attended an appointed meeting at St. Johns last evening, which was large,
 and I trust, through holy help, the blessed cause of Truth did not suffer by it.
@@ -1165,12 +1249,12 @@ yet through the superintending care of a gracious Providence, we got safely over
 landing at Annapolis.
 
 5th.--Rode to Bridgetown, Annapolis, to Joseph Fitz Randolph,
-and in the evening had a meeting ill a school house,
+and in the evening had a meeting in a school house,
 which was small in consequence of the notice not having been properly spread.
 
 First-day, the 6th.--Had a meeting on the north side of Granville Mountain,
 at a place called The Cove;
-w here there are a few professing with Friends who sometimes meet together to worship.
+where there are a few professing with Friends who sometimes meet together to worship.
 Public notice was given,
 and the blessed Master was pleased to be near and favor us with a tendering opportunity.
 In the evening we had a meeting at Bridgetown, which was much crowded, and, I trust,
@@ -1204,9 +1288,16 @@ arrived on Fourth-day, the 16th, and were very kindly received,
 which we felt to be a comfort Here he again wrote to his wife,
 the following being an extract thereof:
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Pictou, Province of Nova Scotia, Tenth Month 18th, 1839.
 
-My dearly beloved Wife:--In the feeling of dear love I again salute you;
+[.salutation]
+My dearly beloved Wife:
+
+In the feeling of dear love I again salute you;
 being at the house of very kind friends, and in good health; which has been,
 through divine mercy, mostly permitted.
 I took some cold while crossing the Bay of Fundy,
@@ -1227,7 +1318,7 @@ at times, I could have said: "`It is enough!`"
 We found a few individuals near Annapolis who hold a meeting for worship on First-days,
 and seem very glad to see Friends.
 I hope they are willing to be helped, which I thought they had need of.
-There is great openness to wards Friends in many places; they see the beauty of it,
+There is great openness towards Friends in many places; they see the beauty of it,
 but the cross is in the way.
 They cannot be Friends in reality without giving up the friendships,
 the flatteries and profits of the world; and, therefore,
@@ -1237,9 +1328,13 @@ but yet not willing to submit to its power.
 There are a few honest-hearted Friends in this place, but they seem rather unsettled,
 some having gone away, and others expecting to go in the spring.
 
+[.signed-section-closing]
 Your loving husband,
 
+[.signed-section-signature]
 Joseph Edgerton.
+
+--
 
 Seventh-day, the 19th.--Had a meeting in the town of Pictou, which was small;
 and the next day attended the meeting of Friends there, which was a good one,
@@ -1296,14 +1391,14 @@ wherein I was drawn to lay before the members of our Society present,
 the necessity of faithfulness in the various branches of our testimonies.
 The reward of peace was granted.
 In the evening, sat with the few Friends at Unity,
-and such of the neighbors as were willing to at tend; to the relief and peace of my mind.
+and such of the neighbors as were willing to attend; to the relief and peace of my mind.
 Attended a meeting at Albion on Third-day, which was a time of renewed favor.
 
 Fourth-day, the 6th.--Had a meeting in the morning at the Neck, to satisfaction;
 and from there went to Vassal borough to attend the Select Quarterly Meeting,
-in which my mind was introduced into deep exercise on be half of ministers and elders,
+in which my mind was introduced into deep exercise on behalf of ministers and elders,
 desiring that they might be enabled to dwell where ability is
-received to labor success fully in the church of Christ.
+received to labor successfully in the church of Christ.
 Ministers thus abiding would be strengthened to
 go forth in his service to the honor of his name,
 experiencing the "`Lord's vestments`" cover the whole man,
@@ -1314,12 +1409,19 @@ under a sense of the low state of the ministry in this part of the heritage.
 
 Here he again writes, an extract of which follows:--
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Vassalborough, Eleventh Monthth, 1839.
 
-My dearly beloved Wife:--I may inform you that I am now at Daniel Taber's,
+[.salutation]
+My dearly beloved Wife:
+
+I may inform you that I am now at Daniel Taber's,
 in good health; arrived safely here yesterday, after an absence of about six weeks.
 We travelled 1,250 miles, and had twenty-five meetings.
-I (.an acknowledge that on returning I felt so much relieved, and so comfortable,
+I can acknowledge that on returning I felt so much relieved, and so comfortable,
 that the travel did not seem hard.
 
 When I got here I met William Dewees, and a very pleasant meeting it was.
@@ -1333,10 +1435,13 @@ and take a part of your heavy burden.
 Hoping before long to have a more comfortable way of conversing with you, I conclude,
 and remain, Your affectionate husband,
 
+[.signed-section-signature]
 Joseph Edgerton.
 
+--
+
 Fifth-day, the 7th.--Attended the Quarterly Meeting,
-the fore part of which was rather trying; but in the latter part life arose,
+the forepart of which was rather trying; but in the latter part life arose,
 and strength was furnished me to throw off the burden that rested upon me;
 closing with tender counsel to some of the young
 who were under the forming Hand for service,
@@ -1360,7 +1465,7 @@ and had a meeting with the few Friends there the next day,
 which was a season of renewed favor.
 
 In the evening had another meeting at New Sharon, to good satisfaction.
-Lodged, and set out the next morning fur Belgrade,
+Lodged, and set out the next morning for Belgrade,
 where we arrived in time for a meeting in the evening, which,
 through the mercy of Israel's Shepherd, was a favored time.
 May my soul bow before the Lord in awful reverence,
@@ -1385,13 +1490,20 @@ and a present help in`" the various exercises and trials that have
 been permitted in the course of this long and oft-burdened travel.
 My spirit bows before Him in thanksgiving and praise;
 feeling now peaceful and at liberty to turn towards home.
-Having sold our team and carriage', we intend going by public conveyance.
+Having sold our team and carriage, we intend going by public conveyance.
 
 Nothing appears on record from this time to the date of the following letter:
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Barnesville, Ohio, Third Month 20th, 1840.
 
-Dear friend Joseph Fitz-Randolph:--I have for some time felt my mind drawn towards you,
+[.salutation]
+Dear friend Joseph Fitz-Randolph:
+
+I have for some time felt my mind drawn towards you,
 and the few others professing with Friends in those parts;
 unto whom the visitations of my heavenly Father's love have been extended
 for your gathering into the true "`sheep-fold,`" where the "`Good Shepherd`"
@@ -1439,7 +1551,7 @@ love of our heavenly Father to his creature man.
 It was as our worthy predecessors were faithful, that they became more and more settled;
 and they had great openings of the scriptures;
 and were favored to see the spiritual nature of Christian worship;
-for there was raised in them a desire fur something more
+for there was raised in them a desire for something more
 substantial than that which was in the wisdom and will of man;
 even the living eternal Truth.
 And being thus gathered together after the manner of the primitive Christians,
@@ -1454,7 +1566,7 @@ of the increase of whose government and peace there shall be no end.`"
 
 O,
 that the glorious gospel day may more and more come! when "`strong
-nations afar off`" may fool the "`rebuke`" of his power;
+nations afar off`" may feel the "`rebuke`" of his power;
 and that every weapon for the destruction or injury of his creature man,
 may be destroyed; or converted to promote his comfort and happiness;
 that the "`knowledge of the Lord may cover the earth as the waters cover the sea.`"
@@ -1463,5 +1575,7 @@ That the word of the Lord, through his ancient servant, may be fulfilled,
 my name shall be great among the gentiles;
 and in every place incense shall be offered unto my name, and a pure offering.`"
 
+[.signed-section-signature]
 Joseph Edgerton.
 
+--

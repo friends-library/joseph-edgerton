@@ -1,5 +1,6 @@
 == Chapter V.
 
+[.chapter-synopsis]
 Account of a Religious Visit to Indiana Yearly Meeting and Some of its Branches.
 
 Having for some time felt my mind drawn to attend Indiana Yearly Meeting,
@@ -76,7 +77,7 @@ Rode to Clarksville in the afternoon,
 and attended a meeting appointed for us at early candle light; which, I hope,
 was a season of instruction to some.
 
-Sixth-day, 9th of Tenth Month.--We attended Spring field Meeting in the morning,
+Sixth-day, 9th of Tenth Month.--We attended Springfield Meeting in the morning,
 which was small, owing to the notice not having been sufficiently circulated.
 In the afternoon, at Littres Creek, to good satisfaction;
 though there was also some deficiency in the notice there;
@@ -109,15 +110,22 @@ to our mutual comfort and thankfulness to Him who does all things well.
 
 The following letter was written soon after his return home:
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Tenth Month 26th, 1840.
 
-Dear Daughters:--I thought I could not well omit availing myself of the present
+[.salutation]
+Dear Daughters:
+
+I thought I could not well omit availing myself of the present
 opportunity of sending you a token of paternal remembrance and regard.
 You are often fresh in my mind;
 attended with desires for your preservation and progress in your studies; so,
 not withstanding we are not permitted to mingle together in the social circle,
 I doubt not we are often remembered by each other;
-and at times in that feeling which would in spire the language,
+and at times in that feeling which would inspire the language,
 "`The Lord hear you in the day of trouble, the name of the God of Jacob defend you,
 send you help from the sanctuary, and strengthen you out of Zion.`"
 
@@ -133,13 +141,24 @@ neither can it take it away from you;
 as you are faithful to the good Shepherd who will lead,
 feed and refresh in his heavenly fold; where there is joy unspeakable and full of glory.
 
+[.signed-section-signature]
 Joseph Edgerton.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Letter to E. M.:
 
+[.signed-section-context-open]
 Seventh Month 19th, 1842.
 
-Dear friend E. M.:--I trust it is under feelings of
+[.salutation]
+Dear friend E. M.:
+
+I trust it is under feelings of
 deep interest in the welfare of our religious Society,
 that I have felt my mind drawn to communicate to you, on the present occasion,
 what rests with me.
@@ -207,7 +226,7 @@ to be faithful to our holy Head,
 showing forth the excellence of the gospel of Christ as we have learned of Him.
 
 I drop these hints for your perusal, with fervent desires that you, as well as myself,
-together with Friends every where,
+together with Friends everywhere,
 may have their attention individually fixed upon our blessed and heavenly Master,
 where we shall all be engaged to keep to the ancient landmarks,
 the doctrines of the Gospel, as they were opened to our worthy fore fathers,
@@ -220,5 +239,7 @@ that went down to the skirts of his garments; as the dew of Hermon,
 and as the dew that descended upon the mountains of Zion;
 for there the Lord commanded the blessing, even life forevermore.
 
+[.signed-section-signature]
 Joseph Edgerton.
 
+--

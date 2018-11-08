@@ -1,5 +1,6 @@
 == Chapter XI.
 
+[.chapter-synopsis]
 Account of a Visit to the Meetings Belonging to North Carolina Yearly Meeting.
 
 Feeling my mind drawn to visit in the love of the gospel,
@@ -45,15 +46,15 @@ Next atttended meetings at Uharee, Bethel, Pine-Ridge, Holly-Spring, Marlborough
 and Marlborough Monthly Meeting, held at Salem; the latter a time of favor.
 
 First-day, Third Month 4th.--At Springfield.
-Thank fulness clothed my mind this morning under a
+Thankfulness clothed my mind this morning under a
 sense of the unmerited mercy of the Head of the church,
 in opening a way where there seemed to be none.
-Truly my soul can in some degree of feeling, adopt the language of t he Psalmist,
+Truly my soul can in some degree of feeling, adopt the language of the Psalmist,
 "`What ailed thee, O thou sea, that thou fleddest?
 thou Jordan, that thou wast driven back?
 ye mountains, that ye skipped like rams; and ye little hills, like lambs?`"
 May my soul bless and praise the name of the Lord our God,
-who remains to be "`wonderful in counsel and excel lent in working.`"
+who remains to be "`wonderful in counsel and excellent in working.`"
 
 First-day afternoon, at Kennet; wherein Truth reigned.
 "`Return unto thy rest, O my soul! for the Lord hath dealt bountifully with thee.`"
@@ -61,13 +62,21 @@ First-day afternoon, at Kennet; wherein Truth reigned.
 On the 5th and 6th at Piney-Woods and Deeg-River.
 In the latter I was led to open the difference
 between that faith which overcomes the world,
-and that which is over come by the world.
+and that which is overcome by the world.
 
-Extract of a letter to Ann Branson:
+[.embedded-content-document.letter]
+--
 
+[.letter-heading]
+Extract of a letter to Ann Branson.
+
+[.signed-section-context-open]
 Third Month 7th, 1849.
 
-My beloved friend Ann Branson:--In a feeling of
+[.salutation]
+My beloved friend Ann Branson:
+
+In a feeling of
 that love which has long subsisted between us,
 I address a few lines to thee,
 and acknowledge the receipt of thine at the hand of A. Packer, which was very acceptable,
@@ -120,12 +129,16 @@ that there is encouragement for all the Lord's faithful servants,
 to stand as with their loins girded, and their feet unfettered,
 waiting and watching at their posts,
 that when the command may be given to go forth into service, they may, with willing,
-confiding hearts, commit them selves, and their all into his holy hand;
+confiding hearts, commit themselves, and their all into his holy hand;
 and as they stand in the obedience of faith, He will take care of them and his cause.
 
+[.signed-section-closing]
 I remain, in the fellowship of the Gospel, thy friend,
 
+[.signed-section-signature]
 Joseph Edgerton.
+
+--
 
 Fourth-day, 7th.--At Concord, to satisfaction; and the three following days, at Centre,
 Providence and Rocky River;
@@ -226,7 +239,7 @@ My spirit has been much depressed in passing through this land,
 on account of the cruel system of oppression.
 It led to very serious reflections,
 and pained my heart to see the hardship practiced upon them by a merciless overseer,
-who thus drives them, regardless of sex, through almost till kinds of weather.
+who thus drives them, regardless of sex, through almost all kinds of weather.
 I do fully believe that the Judge of all the earth will
 not suffer this outrage upon every feeling of humanity,
 as well as Christianity,
@@ -269,7 +282,7 @@ there was no way opened for it.
 I felt peace; believing I had done what was my duty to do.
 I was thankful to the Lord to be accounted worthy to suffer for his name's sake,
 in the support of the precious doctrines of the gospel,
-for the maintenance of which our worthy fore fathers suffered so deeply;
+for the maintenance of which our worthy forefathers suffered so deeply;
 every part and parcel of which is incumbent upon us faithfully to maintain,
 even though it may be through much suffering.
 Truly they are as well worth suffering for as when those
@@ -278,7 +291,7 @@ being willing to sacrifice all that was near and
 dear to them in this life--their liberty,
 their estates,
 and even life itself--rather than depart from those scriptural views of Christian
-doc trine and practice which had been opened to them by the Day-spring from on High.
+doctrine and practice which had been opened to them by the Day-spring from on High.
 All that is within me capable of feeling,
 is at times awakened on behalf of our beloved Society,
 with desires that the Lord in his abundant mercy
@@ -298,9 +311,16 @@ The several sittings, particularly the two last, were seasons of favor.
 
 Here he writes to his wife, the following being an extract thereof:--
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 New Garden, N. C, Fourth Month 23rd, 1849.
 
-My very dear Wife:--We are now at the house of our valued friends D. and A. Clark,
+[.salutation]
+My very dear Wife:
+
+We are now at the house of our valued friends D. and A. Clark,
 in good health.
 We arrived here on Fifth-day last from the east,
 where I found two letters from the beloved partner of my life, which did me much good,
@@ -322,9 +342,13 @@ and not our own.
 May He have the praise thereof, saith my soul.
 If we are favored to get along as well as we expect, I shall not probably write any more.
 
+[.signed-section-closing]
 Thy loving husband,
 
+[.signed-section-signature]
 Joseph Edgerton.
+
+--
 
 Third-day, 24th.--At Hopewell;
 in which ability was given to declare the "`unsearchable riches of Christ.`"
@@ -349,7 +373,7 @@ on the bank of the Wataga River, in Carter County, East Tennessee.
 It is a boiling spring, and emits water sufficient for a considerable mill stream.
 The water is clear and cold,
 and retains its clear appearance for some rods below where it runs into the river;
-but the most remarkable thing connected with it is, considerable quantities offish,
+but the most remarkable thing connected with it is, considerable quantities of fish,
 principally black perch, are caught in a trap just below the spring.
 They rise from this subterraneous fountain in the spring of the year,
 so as to make it a source of income to the owner.
@@ -363,9 +387,9 @@ and attended meeting there on First-day, where were many not of our Society.
 The truths of the everlasting gospel were opened, I trust,
 in the "`demonstration of the Spirit,`" particularly
 that of the universality of Divine grace.
-Paid a visit in the after noon to a sick Friend, to the peace of my mind.
+Paid a visit in the afternoon to a sick Friend, to the peace of my mind.
 
-Second-day morning, set out for Lost Creek, and at tended that meeting on Fifth-day,
+Second-day morning, set out for Lost Creek, and attended that meeting on Fifth-day,
 to the relief of my own mind.
 Thence to Newbury, and attended the Quarterly Meeting there on Seventh-day.
 My blessed Master was near, and enabled me to discharge the service required.
@@ -373,13 +397,21 @@ May everlasting praise be given to Him alone.
 
 So far as appears, this closes his labors in this journey.
 
-Letter to his daughter:--
+[.embedded-content-document.letter]
+--
 
+[.letter-heading]
+Letter to his daughter:
+
+[.signed-section-context-open]
 Seventh Month 6th, 1849.
 
-Dear +++_______+++:--In feelings of dear and tender love,
+[.salutation]
+Dear +++_______+++:
+
+In feelings of dear and tender love,
 thou and thy dear consort are often in my remembrance,
-having no doubt of the extensions of heavenly regard to wards you;
+having no doubt of the extensions of heavenly regard towards you;
 and as you are kept in a daily exercise of soul before the Lord,
 He will keep you and strengthen you for every service allotted.
 I noticed with much interest in thy lines to me when in a distant land,
@@ -404,7 +436,7 @@ He will not administer one more than is necessary to bring about that
 state of purity and fruitfulness which the great husbandman designs.
 Mayst thou, my dear daughter,
 be encouraged to trust in that Arm of Divine mercy which thou
-has felt extended towards and underneath thee;
+hast felt extended towards and underneath thee;
 though thou mayst at times be beset with doubts and fears respecting thy getting along,
 and be ready to adopt the language of one formerly: "`Oh,
 that it were with me as in days past,`" when the
@@ -413,5 +445,7 @@ Well satisfied I am,
 that we are as much the objects of Divine regard in these seasons of discouragement,
 as in the highest we can attain to.
 
+[.signed-section-signature]
 Joseph Edgerton.
 
+--

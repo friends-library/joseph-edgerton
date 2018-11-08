@@ -1,20 +1,22 @@
 == Chapter VIII.
 
-Account of a Visit within the Limits of Philadelphia Yearly Meeting, In 1844;
-Which Concern Extended to New England;
-for Which Service He was Liberated by His Friends at Home;
-But Owing to the Well-Known Difference in our Society
-on Points of Doctrine which then Existed There,
-the Prosecution of His Concern Was Opposed; to Which He Submitted,
-in Accordance with Disciplinary Order, and Left His Burden with Them.
+[.chapter-synopsis]
+Account of a Visit within the Limits of Philadelphia Yearly Meeting, In 1844; Which Concern Extended to New England; for Which Service He was Liberated by His Friends at Home; But Owing to the Well-Known Difference in our Society on Points of Doctrine which then Existed There, the Prosecution of His Concern Was Opposed; to Which He Submitted, in Accordance with Disciplinary Order, and Left His Burden with Them.
 
 The first account we find of his engaging in this visit,
 is contained in the following extract of a letter, written to his wife,
 after his arrival at New York:
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 New York, Sixth Month 12th, 1844.
 
-My dearly beloved Wife:--I am now at the house of our dear friend, John Wood.
+[.salutation]
+My dearly beloved Wife:
+
+I am now at the house of our dear friend, John Wood.
 I set off from Wheeling as was expected, on Seventh-day morning, the 1st of Sixth Month,
 and got to Westland in the afternoon.
 Went to see our afflicted friend, Mildred Ratcliff, who is very feeble,
@@ -38,13 +40,16 @@ and I enjoyed myself there as much as I could expect,
 considering the weight of exercise in view of the prospect before me.
 I try to keep the sack-cloth as much within as possible.
 Ah, truly the Spirit bears witness that bonds and afflictions await.
-We expect to set off to morrow for New England.
+We expect to set off tomorrow for New England.
 May the Lord, in his condescending mercy,
 be pleased to be near in every time of conflict,
 and sustain by his everlasting Arm underneath.
 Whether suffering or rejoicing be meted out, may He have the praise of his own works.
 
+[.signed-section-signature]
 Joseph Edgerton.
+
+--
 
 Nothing appears between this letter and the following:
 
@@ -191,10 +196,16 @@ Lodged at the house of Jesse J. Maris.
 
 Here he writes to Ann Branson, as follows:
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Chichester, Pa., Seventh Month 25th, 1844.
 
-Dearly beloved friend,
-Ann Branson:--I have felt my mind sweetly turned
+[.salutation]
+Dearly beloved friend, Ann Branson:
+
+I have felt my mind sweetly turned
 towards you this morning in the covenant of life,
 even that in which the Lord's humble and dependent ones know, and feel one another,
 though far separated;
@@ -256,7 +267,7 @@ that the excellency of the power may evidently appear to be of God, and not of u
 that the creature may indeed be kept in the very dust.
 I feel a sweet and heavenly unity with you, my dear sister.
 O, it is a blessed thing to be scholars in the same school of Christ!
-These are born of the in corruptible seed, and can,
+These are born of the incorruptible seed, and can,
 and do suffer for and with each other; and with their divine Master for the body's sake,
 which is the church;
 and therefore in due time He will be unto them the "`resurrection and the life.`"
@@ -266,9 +277,13 @@ for such may rest assured He will keep them in the "`hollow of
 his holy hand,`" and "`no evil shall befall them,
 nor any plague come nigh.`"
 
+[.signed-section-closing]
 Your friend,
 
+[.signed-section-signature]
 Joseph Edgerton.
+
+--
 
 Sixth-day.--At Middletown and Goshen meetings; and at Whiteland on Seventh-day,
 which were solid good meetings.
@@ -294,9 +309,16 @@ James R. Greeves.
 Thus closes the account of this visit,
 except what is contained in the following extract of a letter to his wife:
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Philadelphia, Seventh Month 30th, 1844.
 
-My dear Wife:--My companion, James R. Greeves and myself,
+[.salutation]
+My dear Wife:
+
+My companion, James R. Greeves and myself,
 have been diligently engaged in visiting meetings,
 having had for four days past two meetings a day; and the weather being very warm,
 I felt almost worn down last evening.
@@ -306,18 +328,31 @@ me by the time of Philadelphia Quarterly Meeting,
 which will occur the first Second-day in next month.
 
 We have but one meeting each for today and tomorrow, and on Sixth-day, two again.
-We also expect to at tend Abington Quarter, which will occur on the 8th of next month;
+We also expect to attend Abington Quarter, which will occur on the 8th of next month;
 and the next day I think of turning my face towards home, and unless detained on the way,
 may reach there by the 12th or 13th. My love to all.
 
+[.signed-section-signature]
 Joseph Edgerton.
+
+--
 
 [.asterism]
 '''
 
-Letter to Ann Branson:--Sixth Month 21st, 1845.
+[.embedded-content-document.letter]
+--
 
-Dear friend, Ann Branson:--My spirit salutes you in the covenant of life,
+[.letter-heading]
+Letter to Ann Branson.
+
+[.signed-section-context-open]
+Sixth Month 21st, 1845.
+
+[.salutation]
+Dear friend, Ann Branson:
+
+My spirit salutes you in the covenant of life,
 desiring your encouragement in the work and service of the Lord;
 having full unity with you therein;
 and feeling much for you on account of the feeble state of your dear father's health,
@@ -332,8 +367,8 @@ that the Shepherd of the sheep is good and
 gracious--worthy to be waited for and followed,
 in every step we take, with the most entire dedication.
 Then, dear sister, go on in his service,
-and I firmly believe that his own little dependent followers will be eared for,
-and strength ad ministered, day by day,
+and I firmly believe that his own little dependent followers will be cared for,
+and strength administered, day by day,
 just in such a way and time as will give indisputable
 evidence that it is the Lord's doing,
 and marvellous in our eyes.
@@ -381,7 +416,7 @@ that publishes peace; that brings tidings of good, that publishes salvation;
 that says unto Zion: your God reigns.`"
 
 Your lines of Ninth Month last, accompanied by a letter of more recent date,
-came duly to hand, and were grate fully received.
+came duly to hand, and were gratefully received.
 I may say,
 I have derived instruction from the writings of that devoted servant of the Lord,
 John Barclay.
@@ -399,15 +434,27 @@ be his portion, even now, in old age, agreeably to the words of the Psalmist:
 "`They that be planted in the house of the Lord, shall flourish in the courts of our God;
 they shall bring forth fruit in old age; they shall be fat and flourishing.`"
 
+[.signed-section-closing]
 I remain, your friend,
 
+[.signed-section-signature]
 Joseph Edgerton.
 
-Letter to T. B. G.:
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
+Letter to Thomas B. Gould.
+
+[.signed-section-context-open]
 Sixth Month 17th, 1846.
 
-Dear friend:--Yours of Eighth Month last came to hand,
+[.salutation]
+Dear friend:
+
+Yours of Eighth Month last came to hand,
 together with some documents forwarded by you;
 and I thought soon to have written a reply, but many engagements have hitherto prevented.
 I hope, however,
@@ -470,13 +517,24 @@ from the "`footsteps of the flock of Christ.`"
 Many dear friends are very fresh in my remembrance,
 to whom I desire a message of dear love in our Lord Jesus Christ.
 
+[.signed-section-signature]
 Joseph Edgerton.
 
-Letter to Ann Branson:
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
+Letter to Ann Branson.
+
+[.signed-section-context-open]
 Second Month 10th, 1847.
 
-Dear friend Ann Branson:---Your very acceptable letter came duly to hand,
+[.salutation]
+Dear friend Ann Branson:
+
+Your very acceptable letter came duly to hand,
 reviving feelings of gospel fellowship.
 The poor tribulated followers of the Lamb are favored
 to feel one for another in their respective allotments;
@@ -545,5 +603,7 @@ which I have received of the Lord Jesus, to testify the Gospel of the grace of G
 I conclude, and remain your friend and companion in tribulation,
 and desire to be in the faith and patience of Jesus Christ.
 
+[.signed-section-signature]
 Joseph Edgerton.
 
+--

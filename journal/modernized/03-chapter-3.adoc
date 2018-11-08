@@ -1,5 +1,6 @@
 == Chapter III.
 
+[.chapter-synopsis]
 Visit to Indiana Yearly Meeting.
 
 Ninth Month 23rd,
@@ -23,7 +24,7 @@ At Hopewell Meeting,
 ability was vouchsafed to labor honestly for the gathering of a number present,
 to the teaching of the minister of the true tabernacle, which the Lord has pitched,
 and not man.
-At tended meetings at Walnut Ridge, Little Blue River, Sand Creek and Driftwood,
+Attended meetings at Walnut Ridge, Little Blue River, Sand Creek and Driftwood,
 in all of which I was enabled to discharge what I had in commission.
 May I be kept in such a state of humble dependence upon my blessed Master,
 that I may be preserved out of the mixture;
@@ -44,7 +45,7 @@ it was a favored meeting, and, I trust, the cause of truth did not suffer by it,
 The awfulness of the responsibility that attaches to one engaged in the gospel embassy,
 is at times very humbling to my mind.
 May the Lord, whom I desire to serve, be pleased to preserve,
-through heights and through depths, and enable me faith fully to serve Him through all,
+through heights and through depths, and enable me faithfully to serve Him through all,
 being so attentive to his voice,
 that on the one hand none of the intimations of his holy will may be shrunk from;
 and on the other, that there may not be a going forward without his command;
@@ -55,22 +56,32 @@ under whose banner we have been engaged, with the humble acknowledgment:
 "`That not unto us, O, Lord! but to your name`" be the glory and praise,
 forever and ever.
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Tenth Month 21st, 1836.
 
-My dear Wife:--My heart salutes you this evening in the fresh Sowings of endeared love,
+[.salutation]
+My dear Wife:
+
+My heart salutes you this evening in the fresh Sowings of endeared love,
 which runs through my heart as a stream, and is attended with a hope,
 that He whom I desire to serve, will be pleased to support us in this separation,
 and preserve us under his almighty wing in such a humble and dependent state,
-that we may be enabled to run the ways of (he great
+that we may be enabled to run the ways of the great
 Master's requirings with cheerfulness and resignation.
 I have been favored to keep pretty cheerful most of the time,
 the blessed Master condescending to go before; indeed,
 I could not go without the sensible feeling of his presence,
 which has been vouchsafed to us beyond what we could have expected.
 
+[.signed-section-signature]
 Joseph Edgerton.
 
-Seventh-day 22nd, at Quarterly Meeting; and on First.day,
+--
+
+Seventh-day 22nd, at Quarterly Meeting; and on First-day,
 had a public meeting at the same place,
 which were owned by the good Shepherd,--particularly the latter was a favored
 opportunity,--the meeting closing under a solemn feeling of the Lord's goodness,
@@ -126,7 +137,7 @@ First-day, Vermillion and Hopewell Meetings were both relieving opportunities,
 though very close labor went forth to the careless sons
 and daughters who are sitting at ease in Zion.
 Third-day, was at Rocky Run Meeting, at Bloomfield Select Preparative, and Fourth-day,
-at the Monthly Meeting, which was a labor ious time.
+at the Monthly Meeting, which was a laborious time.
 Fifth-day, at Poplar Grove and Rush Creek, which were owned by the good Master's presence.
 The Select Quarter was a low time; but peace was vouchsafed as a reward for faithfulness,
 in some close remarks dropped among them.
@@ -143,9 +154,18 @@ That afternoon, had a meeting in the town of Rockville,
 to which came a large number of those not of our religious Society,
 who were very attentive, and the meeting ended well.
 
-Here he wrote to his wife:--Eleventh Month 15th, 1836.
+Here he wrote to his wife:
 
-My dear Wife:--Your letter was very acceptable,
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
+Eleventh Month 15th, 1836.
+
+[.salutation]
+My dear Wife:
+
+Your letter was very acceptable,
 and I could but take notice that the very day
 that you entered so deeply into feeling with me,
 was a very trying day to me.
@@ -157,7 +177,10 @@ and rejoice in the mercies of our gracious Lord and Master,
 who is still disposed to hear the cries of the poor and the sighs of the needy.
 Your affectionate husband,
 
+[.signed-section-signature]
 Joseph Edgerton.
+
+--
 
 Attended White Lick Monthly Meeting, which was a good meeting;
 then a meeting at Fairfield, not so favored.
@@ -214,7 +237,7 @@ and peace of mind was vouchsafed.
 
 First-day, attended meeting at Clear Spring, to satisfaction.
 Next at Duck Creek and Elm Grove; the former was a trying meeting.
-Ability was given to sound au alarm among them in a very close manner.
+Ability was given to sound an alarm among them in a very close manner.
 At Spiceland Meeting; was a time of suffering to me.
 At Rich Square, the lukewarm and worldly-minded were solemnly warned.
 There is, perhaps,
@@ -233,9 +256,16 @@ From there to Richmond, to our kind friends, J. and J. Smith's.
 
 Here he wrote:
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Richmond, Twelfth Month 15th, 1836.
 
-My dear Wife:--The fatigue and danger of getting about have been great;
+[.salutation]
+My dear Wife:
+
+The fatigue and danger of getting about have been great;
 though when compared with the awful service in which we are engaged,
 it sinks into insignificance.
 It is, indeed,
@@ -301,7 +331,7 @@ I informed in my last of my prospect of going to Mississinewa;
 the road at that time was so bad we declined it,
 and for a time I was in hopes of getting clear of it; but for some days it has returned,
 and if it continues with me, we may probably go.
-I do not forgot our dear children, though I do not say much to them, my sheet forbids it;
+I do not forget our dear children, though I do not say much to them, my sheet forbids it;
 but, in a word, my love is to you;
 and those who are the oldest I want to be good examples to the younger,
 and do all you can to help your dear mother.
@@ -311,9 +341,14 @@ Suffice it to say, my spirit is with the living in our Yearly Meeting,
 who keep to the original ground.
 May they be supported in every trial.
 I conclude in near and dear affection to you, the beloved partner of my life, and remain,
+
+[.signed-section-closing]
 Your loving husband,
 
+[.signed-section-signature]
 Joseph Edgerton.
+
+--
 
 Seventh-day, attended the Monthly Meeting at New Garden,
 in which our blessed Master was pleased to own us in his service,
@@ -346,7 +381,7 @@ Here we attended meetings at Back Creek, Deer Creek, Mississinewa,
 and again at Back Creek,
 in all of which the good Master was pleased to be near and afford
 ability for his service in a very close and searching manner to the
-careless sous and daughters who were invited to come,
+careless sons and daughters who were invited to come,
 in the language: "`I counsel you to buy of me gold tried in the fire,
 that you may be rich; and white raiment, that you may be clothed,
 that the shame of your nakedness do not appear.`"
@@ -447,13 +482,20 @@ And encouragement flowed freely to the true laborers for their help and strength
 that they might be enabled to persevere in the race set before them,
 maintaining a daily watch whereby they might experience preservation from every snare,
 looking forward to the mark for the prize of the high calling of God in Christ Jesus.
-From there we went to Miami Quarter, and at tended Sugar Creek Meeting.
+From there we went to Miami Quarter, and attended Sugar Creek Meeting.
 
 Here he wrote to his wife:
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 First Month 14th, 1837.
 
-My dear Wife:--Your sweet and consoling letter was strengthening to me.
+[.salutation]
+My dear Wife:
+
+Your sweet and consoling letter was strengthening to me.
 I have no doubt we have been made to drink together, though far separated,
 both of the cup of suffering and rejoicing, feeling with and for each other;
 and at times under the influence of his spirit who helps our infirmities,
@@ -489,7 +531,10 @@ I must conclude, and remain to you, my dear, in the fellowship of the Gospel,
 your loving and affectionate husband, and to you, my dear children,
 your tender and affectionate father,
 
+[.signed-section-signature]
 Joseph Edgerton.
+
+--
 
 First-day, at Springborough.
 I left with peace of mind.
@@ -571,6 +616,9 @@ And thus closes the account of this visit,
 except what is contained in the following extract from a letter to his wife,
 dated Second Month 3rd, 1837:
 
+[.embedded-content-document.letter]
+--
+
 When I last wrote you we were at Miami.
 We proceeded to Cincinnati, where my dear companion was taken sick with a prevailing cold.
 He was quite poorly, so he was confined to his bed,
@@ -603,13 +651,23 @@ and under feelings of gratitude be it spoken,
 we have been favored to get along to the relief and peace of our own minds;
 strength being given to throw off the burden, in many instances in a very close way.
 
+[.signed-section-signature]
 Joseph Edgerton.
+
+--
 
 Extract from a letter to Nathan Hunt:--
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Ninth Month 8th, 1838.
 
-Dear Friend:--My mind has often of latter time been turned
+[.salutation]
+Dear Friend:
+
+My mind has often of latter time been turned
 towards you in the sweet remembrance of that unity,
 which in my measure it was given me to feel with you when in your land;
 and I feel freedom to say,
@@ -647,5 +705,7 @@ Oh, that it might be the experience of all who are making the same high professi
 then it might be said, "`No enchantment can prevail against Jacob,
 nor divination against Israel.`"
 
+[.signed-section-signature]
 Joseph Edgerton.
 
+--

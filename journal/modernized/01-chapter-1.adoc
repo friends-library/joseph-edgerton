@@ -1,6 +1,7 @@
 == Chapter I.
 
-Early Life and Labors in the Ministry.
+[.chapter-synopsis]
+* Early Life and Labors in the Ministry.
 
 It has been on my mind to leave some account of the gracious
 dealings of my Heavenly Father with me from my youth,
@@ -100,13 +101,13 @@ May He be pleased to carry on his work until all the dross, the tin,
 and even the reprobate silver may be removed,
 together with the strong will of the creature,
 that is so much opposed to the government of Immanuel;
-that He may subdue all things unto him self, even every thought,
+that He may subdue all things unto himself, even every thought,
 to that obedience wherein He comes to rule and reign over all.
 
 I was preserved in a good degree in plainness, not having, to my recollection,
 deviated from plain Scripture language at any time; and as to deportment and apparel,
 I was not permitted to deviate far from the simplicity of the truth as it is in Jesus.
-And although I often found my self very deficient in
+And although I often found myself very deficient in
 faithfully observing the monitions of the witness for God,
 yet He was pleased to pass by my disobedience and renew his favors to me,
 causing his peace to flow into my heart.
@@ -156,7 +157,7 @@ which caused very humbling feelings; sensible at the same time that if I were fa
 my service would be in a very different line.
 Still continuing under great exercise of mind,
 I often promised to give up if ever the impression was so clear again;
-but when the time came I found my self in the same condition.
+but when the time came I found myself in the same condition.
 At one time my disobedience coming very heavy upon me,
 my mind was impressed with the belief that my day of visitation was nearly over.
 Yet He who is marvellous in his dealings to the children of men,
@@ -189,12 +190,12 @@ May I never forget his loving kindness to me in various ways.
 
 Thus I was through the Lord's unmerited mercy enabled
 to make some advancement in the way of self-denial,
-in bring accounted a fool for the sake of my Lord and Master;
+in being accounted a fool for the sake of my Lord and Master;
 and yet many discouragements were thrown in the way.
-But through Divine Mercy I was helped to over come them,
+But through Divine Mercy I was helped to overcome them,
 being satisfied that He who gives gifts unto men, will, if waited upon and followed,
 enable to come up in the occupancy thereof to the praise of his own eternal Name.
-May I, together with all who apprehend them selves called to speak in the great Name,
+May I, together with all who apprehend themselves called to speak in the great Name,
 be careful to speak in the openings of divine life,
 wherein our movements will be in his power;
 thus preservation will be experienced from mistaking the forward
@@ -231,4 +232,3 @@ and take part with my dear wife in training up a numerous family,
 or whether He may send me to any part of his heritage, I am content,
 so that I may through dedication of heart be permitted to finish my course with joy,
 and the ministry that may have been received of the Lord Jesus.`"
-

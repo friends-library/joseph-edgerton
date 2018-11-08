@@ -1,7 +1,7 @@
-== Chapter Vi.
+== Chapter VI.
 
-Account of a Religious Visit to New York, Canada, and Philadelphia,
-Taking Baltimore Yearly Meeting on the Way.
+[.chapter-synopsis]
+Account of a Religious Visit to New York, Canada, and Philadelphia, Taking Baltimore Yearly Meeting on the Way.
 
 Having felt my mind drawn in the love of the Gospel to
 visit the meetings of New York Yearly Meeting,
@@ -76,9 +76,16 @@ Truth reigned over all; and the meeting closed that evening.
 
 The following is an extract of a letter to his wife written at this time:
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Baltimore, Eleventh Month 3rd, 1842.
 
-Dearly beloved Wife:--In near affection I tenderly salute thee,
+[.salutation]
+Dearly beloved Wife:
+
+In near affection I tenderly salute thee,
 desiring thy strength and preservation, in and under the many trials,
 tribulations and cumbers, which no doubt surround thee.
 My mind is at times drawn out in a very tender manner towards thee and our children;
@@ -106,7 +113,10 @@ she is worthy of your highest esteem, as well as filial regard;
 because of her pious care over you,
 and her unwearied diligence in providing for your wants.
 
+[.signed-section-signature]
 Joseph Edgerton.
+
+--
 
 Sixth-day morning, took the cars for Philadelphia,
 leaving my companion to come with the carriage;
@@ -130,14 +140,21 @@ and appeared to be enjoying the reward therefor.
 
 Here he again writes to his wife, of which the following is an extract:
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 New York, Eleventh Month 11th, 1842.
 
-My dear Wife:--From Baltimore, where I last wrote,
+[.salutation]
+My dear Wife:
+
+From Baltimore, where I last wrote,
 I took passage in the cars for Philadelphia, and arrived the same evening.
 Attended the Quarterly Meeting there on the 7th,
 which was the largest meeting of the kind I ever attended.
 Our blessed and holy Head was pleased to give us a fresh token for good,
-that might he seen even by those who are seeking an
+that might be seen even by those who are seeking an
 easier way to the Kingdom than by the way of the cross.
 I visited several Friends in the city--William Evans, Joseph Snowden, Elizabeth Pitfield,
 Samuel Bettle, and some others.
@@ -175,9 +192,13 @@ and show himself to be an hiding-place unto them in all their trials and deep ba
 which in his own pure and perfect wisdom is seen to be
 necessary for the work whereunto they are called.
 
+[.signed-section-closing]
 I remain thy affectionate husband,
 
+[.signed-section-signature]
 Joseph Edgerton.
+
+--
 
 Attended meetings in the city on First-day, the 13th, to satisfaction,
 particularly the latter;
@@ -207,7 +228,7 @@ Also had a meeting at Blooming-Grove, where religion appeared to be at a very lo
 
 18th.--Had a meeting at the Valley, to satisfaction; and one at Marlborough the next day.
 
-First-day, 20th.---At Plattekill, where my gracious Master was near by his Divine power;
+First-day, 20th.--At Plattekill, where my gracious Master was near by his Divine power;
 giving ability to show the importance of an acquaintance with God;
 which is to be realized only by attending to the Divine gift in the heart.
 The meeting ended in thanksgiving and praise unto Him whose is the power,
@@ -226,7 +247,7 @@ Attended Marlborough Monthly Meeting, held at Plattekill.
 A season of Divine favor.
 May the Lord be praised, for his works alone can praise Him.
 
-24th.--Had a meeting at Poughkeepsie, to good satis faction.
+24th.--Had a meeting at Poughkeepsie, to good satisfaction.
 
 25th.--At Beakman; which, through Divine mercy, was a season to be remembered.
 An open door was set before me,
@@ -243,7 +264,7 @@ I am renewedly confirmed in the belief,
 that it is only as Yearly Meeting Boarding Schools are
 conducted under religious feeling and weight,
 that the object can be reached; for indeed, it appears to me,
-that if those who have the immediate over sight thereof,
+that if those who have the immediate oversight thereof,
 are not consistent members and testimony bearers; such schools,
 instead of being as our holy Head would have them to be,
 prove merely a nursery of pride and vanity,
@@ -258,13 +279,20 @@ to satisfaction.
 Lodged at the house of Sarah C. Hull,
 widow of our late friend and fellow-laborer in the Gospel, Henry Hull.
 We proceeded forward, and attended meetings at North-East, Little Nine Partners,
-and Hudson; then passed on to Sara toga.
+and Hudson; then passed on to Saratoga.
 
 The following is an extract of a letter to his wife, written at this time.
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Near the city of Hudson, Eleventh Month 30th, 1842.
 
-My dear Wife:--We have been favored to get along as well as we could expect,
+[.salutation]
+My dear Wife:
+
+We have been favored to get along as well as we could expect,
 and can "`set up our Ebenezer`" and say, "`hitherto the Lord hath helped us.`"
 He hath afforded such clear evidences of his gracious regard,
 that there is not a doubt left of our being in our right places;
@@ -285,7 +313,7 @@ will not be driven from the good old way,
 and who are "`grieved for the afflictions of Joseph,`" spiritually.
 My spirit is in deep sympathy with these,
 not doubting that the Lord's faithful children will be kept in the "`hollow of his
-hand,`" and enabled to sup port the various testimonies of Truth to their own peace,
+hand,`" and enabled to support the various testimonies of Truth to their own peace,
 and to the praise of his great name.
 
 I keep the run of all our meetings at home, and my spirit often visits you in them.
@@ -295,9 +323,13 @@ though but few in number.
 It is snowing very fast, and the weather having been winter like for some days,
 I expect we will leave our carriage here and take a sleigh.
 
+[.signed-section-closing]
 As ever, thy affectionate husband,
 
+[.signed-section-signature]
 Joseph Edgerton.
+
+--
 
 First-day, 4th of Twelfth Month.--Attended a meeting at Half-Moon, to satisfaction;
 and rode that evening to Shaticoke; a little meeting, held in David Devol's house.
@@ -309,12 +341,12 @@ who in faith were concerned to submit themselves thereto;
 and the meeting would have ended well had it not been for some
 "`dead flies`" cast in by a member of the meeting,
 which caused the ointment of the apothecary to
-send forth a savor,`" not so pleasant as before.
+send forth a savor, not so pleasant as before.
 
 Fourth-day, 7th, we proceeded to East Hoosack, in the State of Massachusetts,
 and attended meeting there; found the state of religion lamentably low.
 O, how the poor traveller has to mourn when his divine Master is in suffering!
-I was favored, however, to perforin the allotted portion of service.
+I was favored, however, to perform the allotted portion of service.
 Proceeded that evening towards Granville, where we arrived on Fifth-day evening,
 and had a meeting there on Sixth-day, in which Truth reigned over all.
 May the praise be ascribed unto Him from whom all strength cometh,
@@ -335,8 +367,8 @@ in the "`demonstration of the spirit and of power;`" and the day closed peaceful
 and the next morning set out for Farnham, Lower Canada.
 We reached Barton in the evening, and lodged at the house of James May;
 a member of our Society, who, together with his family,
-sit down in their house on First-days; and some times others come and sit with them.
-We had a meeting in the town to satisfaction, and set out again in the after noon,
+sit down in their house on First-days; and sometimes others come and sit with them.
+We had a meeting in the town to satisfaction, and set out again in the afternoon,
 expecting to reach Farnham Monthly Meeting; but a heavy snow storm coming on,
 rendered it very difficult travelling,
 the snow being so much drifted that it was almost impossible to get through;
@@ -389,11 +421,18 @@ and expecting to get letters from them, either at Le Ray or Lowville.
 
 Here he wrote to his wife, the following being an extract:
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Twelfth Month 31st, 1842.
 
-My dearly beloved Wife:--Being detained from pursuing our journey,
+[.salutation]
+My dearly beloved Wife:
+
+Being detained from pursuing our journey,
 in consequence of a heavy snow-storm, I think it will be best for me to write,
-though I have deferred it for some time, hoping soon to reach Lowville,
+though I have deferred it for sometime, hoping soon to reach Lowville,
 where I might receive a letter from thee;
 as I have had no account since leaving John Wood's, nearly eight weeks ago.
 It has been a great trial of my faith and patience, and the more so,
@@ -433,9 +472,15 @@ so little of that living, upright zeal,
 which so remarkably characterized our dear forefathers,
 and which is to be found (blessed be the name of Israel'
 s Shepherd,) in many parts of his heritage.
-In tender love, I remain, Thy affectionate husband,
+In tender love, I remain,
 
+[.signed-section-closing]
+Thy affectionate husband,
+
+[.signed-section-signature]
 Joseph Edgerton.
+
+--
 
 First-day, First Month 1st, 1843.--Had a meeting at Providence,
 and found relief in some close service.
@@ -465,13 +510,17 @@ And, to the praise of the good Shepherd be it spoken,
 His sustaining arm bore up my head above the waves, and enabled me,
 in humble acquiescence with His divine will to say with Job; "`The Lord gave,
 and the Lord hath taken away, blessed be the name of the Lord.`"
-
 We attended meetings at Le Ray and Indian River, to satisfaction.
 
 Relative to the close trial above alluded to he thus writes to his family:--
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Lowville, First Month 7th, 1843.
 
+[.salutation]
 My dear Wife and Children:
 
 We are now at Thomas Townsend's; arrived here last evening,
@@ -518,7 +567,10 @@ lively stream through my heart unto thee,
 and our dear children; and remain thy affectionate husband and companion in tribulation,
 and, I trust, in the faith and patience of the Gospel,
 
+[.signed-section-signature]
 Joseph Edgerton.
+
+--
 
 Sixth-day morning, the 18th, set out for Upper-Canada,
 and crossed over the great river St. Lawrence to the house of Isaac Booth.
@@ -555,7 +607,7 @@ Crossed the Bay of Quinte on the ice, and were favored to get safely over,
 for which I felt thankful.
 May I never forget all, nor any of His benefits.
 Went to William Roerk's, where I received several letters,
-one of which was from my dear wife and children, which was a great satis faction to me.
+one of which was from my dear wife and children, which was a great satisfaction to me.
 May the Lord be pleased to keep and sustain them by his eternal power,
 and enable them to bear the sore bereavement that has been permitted to attend,
 with resignation and fortitude.
@@ -577,14 +629,21 @@ the Select Half Year's meeting was held, which was a time of close searching lab
 and towards the close, Truth reigned over all.
 May praise be ascribed unto Him, who is "`Head over all things to his church.`"
 
-From this place he again wrote to his family, the fol lowing being an extract thereof:
+From this place he again wrote to his family, the following being an extract thereof:
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 West Lake, Upper Canada, First Month 31st, 1843.
 
-My dear Wife and Children:--I again salute you in the tenderest feelings
+[.salutation]
+My dear Wife and Children:
+
+I again salute you in the tenderest feelings
 that can flow from the heart of an affectionate husband and father.
 Very deeply do I feel for,
-and sympathize with you in the trials which have been meted nut by
+and sympathize with you in the trials which have been meted out by
 Him "`who layeth the beams of his chambers in the waters;
 who maketh the clouds his chariots;
 and who walketh upon the wings of the wind,`" unseen by mortal eye;
@@ -613,15 +672,20 @@ May stones of memorial be taken from the bottom of "`Jordan and pitched in
 Gilgal,`" to bear testimony to the goodness of the Lord to his people.
 I desire to be preserved in patience until the time comes when a
 release may be sounded from further service in a foreign land.
-It is scarcely worth while to say, then gladly shall I return to you, if so permitted,
+It is scarcely worthwhile to say, then gladly shall I return to you, if so permitted,
 which I trust, will be the case in the Lord's time.
 May the Lord bless you, and watch over you by day and by night,
 together with my own soul,
 and preserve us in his "`secret pavilion,`" where no "`evil can befall,
 nor any plague come nigh.`"
-Thy affectionate husband.
 
+[.signed-section-closing]
+Thy affectionate husband,
+
+[.signed-section-signature]
 Joseph Edgerton.
+
+--
 
 Fourth-day, Second Month, 1st.--The meeting for discipline commenced.
 Heavenly help was near, and strengthened for the service required.
@@ -696,7 +760,7 @@ that I might weep day and night for the slain of the daughter of my people.`"
 Rode to Buffalo the next day,
 and had a meeting in the evening with the few Friends there,
 and some friendly people who came in.
-I was led to show them the necessity of an up right walk before the Lord,
+I was led to show them the necessity of an upright walk before the Lord,
 whereby they might adorn our high and holy profession.
 
 Rode on Fifth-day morning, the 23rd, about twenty-five miles, to Collins Monthly Meeting,
@@ -746,9 +810,16 @@ which was a refreshing season.
 
 The following is an extract of a letter to Ann Branson, written at this time:--
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Third Month 6th, 1843.
 
-My dear Friend, Ann Branson:--Having for some time felt my mind drawn towards thee in,
+[.salutation]
+My dear Friend, Ann Branson:
+
+Having for sometime felt my mind drawn towards thee in,
 I trust,
 a portion of that gospel fellowship which unites the
 members of that body of which Christ Jesus is the Head,
@@ -784,9 +855,13 @@ to whom we have felt nearly united in the covenant of life.
 May they hold on their way, and become stronger and stronger.
 I remain, in the fellowship of the Gospel,
 
+[.signed-section-closing]
 Thy friend,
 
+[.signed-section-signature]
 Joseph Edgerton.
+
+--
 
 5th.--Had a very small meeting at Skeneateles; the life of religion lamentably low.
 Thence to de Ruyter,
@@ -794,9 +869,16 @@ where Truth's testimony was held forth in some degree of gospel authority.
 
 Here he again writes to his wife, of which the following is an extract:--
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 de Ruyter, Third Month 8th, 1843.
 
-My dearly beloved Wife:--I again salute thee, together with our dear children,
+[.salutation]
+My dearly beloved Wife:
+
+I again salute thee, together with our dear children,
 and may say,
 through Divine mercy we have been favored to get along as well as could be expected.
 I have no doubt I have thy prayers, as well as the prayers of many other dear friends,
@@ -828,9 +910,13 @@ how you are getting along in different respects;
 but have to leave you in the hands of our great Creator.
 I remain, as ever,
 
+[.signed-section-closing]
 Thy loving husband,
 
+[.signed-section-signature]
 Joseph Edgerton.
+
+--
 
 We next went into the limits of Butternuts Quarter, taking Smyrna, Madison,
 Brookfield and Burlington, to satisfaction.
@@ -838,7 +924,7 @@ Brookfield and Burlington, to satisfaction.
 First-day, 12th, at Butternuts, which was a large meeting;
 many not of our Society being there.
 Next, at Otego and Lawrens; both to the relief of my own mind; but not feeling easy,
-we returned to Butternuts, and at tended their meeting on Fourth-day.
+we returned to Butternuts, and attended their meeting on Fourth-day.
 Found relief by faithfulness in delivering what
 seemed to be the allotted portion of service.
 My spirit has often been clothed with mourning,
@@ -852,7 +938,7 @@ Sat down, at 11 o'clock, with the few Friends there, and some of the neighbors,
 which was a solid, edifying season.
 Set out First-day afternoon towards the city of Hudson,
 and arrived at the house of our kind friends, Samuel and Ann Marriott,
-where we started from in the sleigh, the lost of Eleventh Month.
+where we started from in the sleigh, the last of Eleventh Month.
 We were rejoiced to get there.
 Attended Hudson Monthly Meeting;
 counsel flowed freely to the exercised Christian travellers;
@@ -865,26 +951,33 @@ let him hear what the Spirit saith unto the
 churches,`" demanding deep and awful attention,
 that we might come up faithfully as individual members of the Church; showing,
 that if ever the Church does arise and shake herself from the dust of the earth,
-and put on her beautiful garments, individual faith fulness and purity must be witnessed.
+and put on her beautiful garments, individual faithfulness and purity must be witnessed.
 Returned to Samuel Marriott's through a snow-storm.
 
 Here he again writes to his family, as follows:--
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Near Hudson, State of New York, Third Month 24th, 1843.
 
-Dearly beloved Wife and Children:--In dear and tender love do I again salute you,
+[.salutation]
+Dearly beloved Wife and Children:
+
+In dear and tender love do I again salute you,
 being prevented from travelling by a heavy snow-storm,
 which is a fresh trial of patience.
 The snow is perhaps three feet deep where it is not drifted,
 and from ten to fifteen where it is blown into lanes and roads.
-It has been exceeding difficult travel ling; indeed,
+It has been exceeding difficult travelling; indeed,
 it has been impossible in many places, until the roads were opened with shovels.
 I feel very tenderly for you, and have been desirous to improve the time.
 I much desire to be preserved in the patience until the Lord's time,
 when a release may be granted, and liberty given to return to you, which, I believe,
 will be ere long.
 
-Many baptisms have been permitted to at tend during the present arduous engagement; yet,
+Many baptisms have been permitted to attend during the present arduous engagement; yet,
 I may say, I have never felt a greater evidence in my feeble stepping along,
 that I have been, and am at this time, in my proper place;
 although sensible that I am an unprofitable servant, having done,
@@ -913,15 +1006,18 @@ and many times feel the solemn responsibility which rests upon you.
 May the "`eternal God be your refuge;
 and underneath the everlasting arms,`" to support and
 strengthen you in "`every good word and work.`"
-E. and M. B. are of the number alluded to, and are sharers of my lively interest.
++++E+++. and M. B. are of the number alluded to, and are sharers of my lively interest.
 My love to them in the fellowship of the gospel.
 I must draw to a close, and remain, as ever, in that which time, nor distance,
 can in any degree diminish,
 thy loving husband and companion in the tribulations of the gospel,
 
+[.signed-section-signature]
 Joseph Edgerton.
 
-We were detained by the deep snow until First-day, the 2lith,
+--
+
+We were detained by the deep snow until First-day, the 26th,
 when we rode to Little Nine Partners, to a meeting, at 2 o'clock; a poor little meeting.
 An example of silence appeared to be my place.
 After attending a meeting on Fourth-day, to satisfaction,
@@ -933,9 +1029,16 @@ Thus closes the account of this visit,
 except what is contained in the following extract of a letter,
 written after arriving at the city of Philadelphia:
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Philadelphia, Fourth Month 8th, 1843.
 
-My dearly beloved Wife:--Being now at the house of Thomas Kite,
+[.salutation]
+My dearly beloved Wife:
+
+Being now at the house of Thomas Kite,
 I take my pen in hand again to address thee.
 Through Divine mercy we have been favored to get along thus far,
 to the relief and peace of our minds.
@@ -951,7 +1054,7 @@ in which sense it might be said, that "`bonds and afflictions abide.`"
 
 In the afternoon, humble petitions were put up for our poor, stripped and peeled Society,
 that like the vine that was brought out of Egypt, spiritually,
-had been watered by the heavenly rain and celestial dew, from sea son to season,
+had been watered by the heavenly rain and celestial dew, from season to season,
 yet the "`boar of the wood is wasting it,
 and the wild beast of the field is devouring it.`"
 Every opposing spirit was kept under, and the Lord magnified over all.
@@ -987,7 +1090,10 @@ after attending his Monthly Meeting at the Falls;
 wherein he opened a prospect of religious service in New Jersey,
 principally among those not of our society.
 
+[.signed-section-closing]
 I remain as ever, thy loving husband,
 
+[.signed-section-signature]
 Joseph Edgerton.
 
+--

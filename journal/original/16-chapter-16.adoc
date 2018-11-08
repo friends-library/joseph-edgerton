@@ -1,5 +1,6 @@
 == Chapter XVI.
 
+[.chapter-synopsis]
 Address to the Members of The Society of Friends.
 
 At the Meeting for Sufferings of Indiana Yearly Meeting, held at White Water,
@@ -12,13 +13,22 @@ The address thereupon was read, and satisfaction and unity with it was expressed
 It was proposed and united with that five thousand copies be
 printed for the use of the members of our Yearly Meeting.
 
+[.signed-section-closing]
 Extracted from the minutes.
 
+[.signed-section-signature]
 Thomas Evans, Clerk.
 
+[.embedded-content-document.address]
+--
+
+[.letter-heading]
 Address to the Members of the Society of Friends.
 
-Dear Friends and Brethren:--In that love and life wherein is
+[.salutation]
+Dear Friends and Brethren:
+
+In that love and life wherein is
 our union and fellowship in Christ Jesus our Lord,
 I salute you, desiring that He may enrich you with his heavenly blessings,
 and enable you to stand fast in that liberty wherewith his disciples are made free.
@@ -148,9 +158,9 @@ are involved in mysticism,
 and that our worthy predecessors were not clear
 in their understanding of Christian doctrine.
 Be aware, dear friends, of this spirit, and of those who are actuated by it;
-for it is mani fest, and will more and more appear that they are in the mixture,
+for it is manifest, and will more and more appear that they are in the mixture,
 and their vision is not clear.
-They have wot experienced the efficacy of the one baptism,
+They have not experienced the efficacy of the one baptism,
 which cleanses from all defilement,
 and brings into the situation of little children
 depending upon their Heavenly Father for sustenance,
@@ -256,7 +266,7 @@ you will see the exceeding sinfulness of a state of forgetfulness of God,
 from whom we receive every blessing, both spiritual and temporal.
 Yea! the blind eyes will be opened, and deaf ears unstopped;
 the lame man shall leap as an hart, and the tongue of the dumb sing.
-You who have been lame and halting, as to a perfect and up right walking before God,
+You who have been lame and halting, as to a perfect and upright walking before God,
 will, through his eternal power, come forth, walking and leaping,
 and praising Him for his abundant mercies.
 As you love and cherish this humble and obedient state,
@@ -395,7 +405,7 @@ and the enormous weight of guilt that is attached to its supporters.
 Our blessed and holy Head is calling us to keep close to Him in a body,
 out of the excitement, the whirlwind, and the fire;
 where we may be clothed with that spirit which breathes "`glory to God in the highest,
-and on earth peace, good will toward men.`"^
+and on earth peace, goodwill toward men.`"^
 footnote:[Luke 2:14]
 
 Dear friends for whom I travail in spirit, and for whom the Lord hath opened my heart,
@@ -429,7 +439,7 @@ we pray for them that the Lord may visit them in their affliction,
 and that He may hasten their enlargement and final
 deliverance from the iron yoke of oppression,
 we shall also desire for the slave dealer and slave holders,
-that their hearts may be opened to feel the exceeding sin fulness of such a practice,
+that their hearts may be opened to feel the exceeding sinfulness of such a practice,
 that whilst a door of mercy is open for them,
 they may repent of their deeds and amend their lives.
 May the Lord of the whole earth, who hath the hearts of all men in his hands,
@@ -458,7 +468,7 @@ Here we find this great duty and service confided to those that are spiritual,
 that are under the government of the spirit of Christ.
 Such, indeed, will feel the weight of the succeeding language,
 "`in the spirit of meekness, lest thou also be tempted.`"
-As delinquents are labored with in this restoring spirit of Christian love,
+As delinquents are labored within this restoring spirit of Christian love,
 though it may not at the time have the desired effect,
 yet I doubt not it will often prove like bread cast upon the waters,
 which will return after many days.
@@ -590,13 +600,13 @@ self-denying people which is consistent with our high and holy profession.
 "`The judgments of the Lord are true and righteous altogether.`"
 Your understandings will be opened feelingly to acknowledge to the truth,
 "`even more to be desired are they than gold, yea, than much fine gold;
-sweeter also than honey, and the honey comb; moreover by them is thy servant warned,
+sweeter also than honey, and the honeycomb; moreover by them is thy servant warned,
 and in keeping of them there is great reward.`"^
 footnote:[Ps. 19:10-11]
 A blessed and heavenly reward is experienced by all the diligent,
 persevering and faithful students in Christ's school,
 and He will lead them forward from less to more, establish, strengthen and settle them,
-upon that foundation that can not be shaken.
+upon that foundation that cannot be shaken.
 
 O, dear young friends, for whom I travail in the spiritual life,
 be faithful to the Lord who hath bought you and all
@@ -654,7 +664,7 @@ This blessed Spirit of Truth is inviting you in this language,
 "`Receive my instructions and not silver, and knowledge rather than choice gold.
 For wisdom is better than rubies,
 and all the things that may be desired are not to be compared to it.
-I, wisdom, dwell with prudence, and find out know ledge of witty inventions.
+I, wisdom, dwell with prudence, and find out knowledge of witty inventions.
 The fear of the Lord is to hate evil; pride and arrogance,
 and the evil way and the froward mouth do I hate.
 Counsel is mine and sound wisdom; I am understanding; I have strength.
@@ -695,7 +705,7 @@ and increase a disrelish for divine and heavenly things;
 as well as those which under a character professedly religious,
 yet have mixed up in intimate connection,
 sentiments at variance with the doctrines of the Gospel as professed by us;
-and are calculated to entangle and be wilder the mind,
+and are calculated to entangle and bewilder the mind,
 and obstruct a growth in the root of life.
 
 In the first place I would encourage you to read the Holy Scriptures,
@@ -771,7 +781,10 @@ that God who hath wrought wondrously for us.
 after that ye have suffered awhile, make you perfect, establish, strengthen,
 settle you.`"
 
-To Him be glory and dominion for ever and ever.
-Amen.
+[.signed-section-closing]
+To Him be glory and dominion for ever and ever. Amen.
 
+[.signed-section-signature]
 Joseph Edgerton.
+
+--
