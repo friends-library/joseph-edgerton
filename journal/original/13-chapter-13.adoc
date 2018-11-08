@@ -1,7 +1,7 @@
 == Chapter XIII.
 
-Account of a Visit to Some of the Meetings of Philadelphia Yearly Meeting;
-Appointed Some Meetings in New England, and in Some of the Seaport Towns.
+[.chapter-synopsis]
+Account of a Visit to Some of the Meetings of Philadelphia Yearly Meeting; Appointed Some Meetings in New England, and in Some of the Seaport Towns.
 
 Having felt my mind drawn to visit in gospel love some
 of the meetings of Philadelphia Yearly Meeting,
@@ -51,9 +51,16 @@ and putteth the song which is ever new into the mouths of his dependent ones.`"
 
 Extract of a letter to E. B., written at this time:--
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Fall River, Mass., Fifth Month 10th, 1851.
 
-Dear friend, E. B.:--In the fresh feeling of that near unity,
+[.salutation]
+Dear friend, E. B.:
+
+In the fresh feeling of that near unity,
 which has long been felt between us, I salute thee and thy beloved M.,
 and may inform thee that I am well, and, through Divine mercy,
 have been favored to get along to my own peace thus far.
@@ -83,14 +90,18 @@ May the Lord, in his mercy, strengthen them by his power in their inner man,
 and so clothe them by his Spirit, both in meeting and out of meeting,
 that they may keep their places in the authority of Truth;
 being as "`saviours upon Mount Zion,
-to judge the mount of Esau,`" both in them selves and in others.
+to judge the mount of Esau,`" both in themselves and in others.
 
 In the fellowship of the Gospel I conclude, with love to thyself,
 thy dear wife and children, and remain,
 
+[.signed-section-closing]
 Thy friend in the Truth,
 
+[.signed-section-signature]
 Joseph Edgerton.
+
+--
 
 First-day, 11th.--At Westport, and North Dartmouth, to satisfaction.
 Then to New Bedford, and had an appointed meeting with the few Friends there,
@@ -121,9 +132,16 @@ Was favoured to leave peacefully.
 
 Extract of a letter to his wife, written at this place:
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 New Bedford, Fifth Month 13th, 1851.
 
-My dear Wife:--I may truly say that I have been confirmed
+[.salutation]
+My dear Wife:
+
+I may truly say that I have been confirmed
 abundantly in the sentiment that I have long entertained,
 that the part of Society in this country,
 termed the "`smaller body,`" is owned by the Head of the church.
@@ -138,9 +156,12 @@ What a pity that so many of the members of our beloved Society
 should join in confederacy with that spirit which for years
 has been striving to modify our high and holy profession.
 
+[.signed-section-signature]
 Joseph Edgerton.
 
-Fourth-day, 14th.--AtSouth Dartmouth.
+--
+
+Fourth-day, 14th.--At South Dartmouth.
 Divine mercy was extended, to the tendering of many hearts.
 Set out for Nantucket, and touched at the Elizabeth Islands, and Martha's Vineyard,
 arriving safely at Peleg Mitchell's on Sixth-day evening.
@@ -168,7 +189,7 @@ to prepare us for the solemn period of death.
 
 Feeling clear of the Island, we took a solemn leave of Friends, in great tenderness,
 and embarked on a steamer on Second-day morning, the 19th,
-and had a very pleas ant passage, landing in the afternoon at New Bedford.
+and had a very pleasant passage, landing in the afternoon at New Bedford.
 Took the rail-cars the next day for North Berwick, and had a meeting there,
 to satisfaction.
 Had a meeting at the Great Falls, which was an exercising time;
@@ -247,7 +268,7 @@ Several not members of our Society, came in, and the doctrines of the gospel wer
 I trust, in a good degree of its own authority.
 I was favored to leave in peace.
 
-At Crosswicks Monthly Meeting on Third-day, to satis faction;
+At Crosswicks Monthly Meeting on Third-day, to satisfaction;
 and at Trenton in the evening, which was a time of renewed favor,
 wherein Truth reigned over all, Oh,
 that the praise may be returned unto Him to whom it is due.
@@ -271,11 +292,19 @@ under the influence of which, the gospel was preached to the instruction of many
 
 May the Lord be praised, and my poor soul kept in the dust, for He alone hath done it.
 
-Extract of a letter to his family.
+[.embedded-content-document.letter]
+--
 
+[.letter-heading]
+Extract of a Letter to His Family.
+
+[.signed-section-context-open]
 New Jersey, Sixth Month 7th, 1842.
 
-My beloved Wife:--Thine of the 30th came to hand yesterday, which was truly acceptable.
+[.salutation]
+My beloved Wife:
+
+Thine of the 30th came to hand yesterday, which was truly acceptable.
 I was also glad to have a few lines from the dear children.
 I may inform thee that I am well;
 and have been thus favored ever since leaving my dear home, except some slight colds,
@@ -298,11 +327,15 @@ that nothing may be omitted that ought to be done,
 nor anything done which his holy Spirit does not lead into.
 I am more and more confirmed in the belief that if we are inward,
 watchful and fervent enough, we shall not be left to ourselves,
-but an evidence will be grunted of any intimation of duty required.
+but an evidence will be granted of any intimation of duty required.
 
+[.signed-section-closing]
 I remain as ever thine,
 
+[.signed-section-signature]
 Joseph Edgerton.
+
+--
 
 At Easton on Seventh-day afternoon,
 where the language of encouragement flowed freely to the exercised burden-bearers,
@@ -381,4 +414,3 @@ Set out the same evening for home, and arrived at the house of our son-in-law,
 John Thomasson on Third-day evening, 24th;
 where I met my beloved wife to our mutual joy and rejoicing.
 Arrived at my own home the next day; O, may my soul bless and praise the name of the Lord!
-

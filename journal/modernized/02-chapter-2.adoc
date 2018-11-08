@@ -1,11 +1,12 @@
 == Chapter II.
 
-Visit to North Carolina Yearly Meeting.^
-footnote:[John Hall, living near Mt. Pleasant, was his companion.]
+[.chapter-synopsis]
+Visit to North Carolina Yearly Meeting.
 
 Tenth Month, 1834.
 Having for some time felt my mind drawn to visit in gospel
-love the meetings of North Carolina Yearly Meeting,
+love the meetings of North Carolina Yearly Meeting,^
+footnote:[John Hall, living near Mt. Pleasant, was his companion.]
 as way might open, and having the concurrence of my friends,
 I left my dear wife and children on the 13th of the month,
 in which parting opportunity the stream of
@@ -27,6 +28,9 @@ had liked to have caused me a sleepless night.
 
 At Hopewell he wrote to his family as follows:
 
+[.embedded-content-document.letter]
+--
+
 We have had our health well since we left home, and have got along comfortably,
 except the feeling of distress that has attended in passing through a land of slavery.
 
@@ -40,7 +44,10 @@ near to direct and support in every time of trial.
 Our dear children are often the objects of my remembrance.
 May you all be kept in the hollow of the Lord's holy hand.
 
+[.signed-section-signature]
 Joseph Edgerton.
+
+--
 
 We arrived at Deep River after a laborious travel of about thirteen days, I trust,
 under feelings of thankfulness to the Preserver of men for his many mercies;
@@ -57,9 +64,16 @@ in Him who is the strength of his people.
 
 He again writes:--
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 New Garden, Guilford Co., N. C, Eleventh Month, 1834.
 
-My dear Wife:--My spirit salutes you this morning in near and dear affection,
+[.salutation]
+My dear Wife:
+
+My spirit salutes you this morning in near and dear affection,
 though far separated in person, and may inform you that I am well,
 and have enjoyed good health since leaving home.
 My dear companion's health is also good.
@@ -86,9 +100,13 @@ The desire of my heart has been that I might be entirely given up to the will of
 The Yearly Meeting has been large, and, so far, favored.
 It has, I think, been a solid meeting, and the business conducted in harmony.
 
+[.signed-section-closing]
 Your loving husband.
 
+[.signed-section-signature]
 Joseph Edgerton.
+
+--
 
 Seventh-day, 8th of Eleventh Month.--Attended Hope-well Monthly Meeting.
 A time of close exercise;
@@ -124,7 +142,7 @@ stumbling blocks in the way of serious inquirers after truth.
 Fifth-day, at Deep Creek.--The fore part was laborious,
 but towards the conclusion life arose,
 so that I humbly hope it was a time of instruction to many.
-First-day at tended meeting at Newberry.
+First-day attended meeting at Newberry.
 A very stormy day.
 It continued to rain and freeze, until it became the most extraordinary sleet I ever saw,
 the timber being so loaded with ice that it is very much broken,
@@ -162,13 +180,19 @@ that the pure spring of life may be kept to.
 
 Eleventh Month 22nd, 1834, he again writes:
 
-My dear Wife:--We have been very closely engaged
+[.embedded-content-document.letter]
+--
+
+[.salutation]
+My dear Wife:
+
+We have been very closely engaged
 every day except two that we had to lie by,
 in consequence of the sleet.
 We have been favored to get along, to the relief and peace of our minds.
 Many baptisms are our portion.
 The languid state of our Society in many places is, as Samuel Fothergill observes,
-like pensively musing on a scroll that is written within and with out with lamentation,
+like pensively musing on a scroll that is written within and without with lamentation,
 mourning and woe;
 so that the situation of those who go forth in the Lord's
 service is very similar to that of some of David's worthies,
@@ -182,9 +206,13 @@ We are now through the meetings of New Garden and Deep River Quarters.
 Friends in this country have no fire in their meeting-houses;
 I have seen but one that had any opportunity of warming it.
 
+[.signed-section-closing]
 I remain affectionately,
 
+[.signed-section-signature]
 Joseph Edgerton.
+
+--
 
 Fourth-day, 26th.--Had a meeting at Kennet;
 a time of close labor to some lukewarm professors.
@@ -210,7 +238,7 @@ it was a time of instruction to many.
 Second-day, at Bethel; a time that I hope will be remembered by some.
 Ability was afforded to labor for the growth and establishment of the
 members of our religious Society upon the immovable foundation,
-Jesus Christ him self being the chief corner-stone.
+Jesus Christ himself being the chief corner-stone.
 The meeting ended in solemn prayer to God.
 May the many mercies of which we are made partakers,
 animate us to follow Him with increased dedication,
@@ -239,9 +267,16 @@ and arrived in the neighborhood on Fifth day evening.
 Seventh day, attended Contentney Monthly Meeting, and at meeting there on First-day,
 which was owned by the Head of the Church.
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Twelfth Month 10th, 1834.
 
-My dear Wife:--We are now at uncle William Edgerton's,
+[.salutation]
+My dear Wife:
+
+We are now at uncle William Edgerton's,
 after a laborious travel among the meetings of New Garden, Deep River,
 Southern and Western Quarterly Meetings; having been engaged every day for five weeks,
 except two in time of the sleet.
@@ -266,7 +301,12 @@ a distance of 120 miles.
 But a release from it I could not feel.
 They have a Monthly Meeting at that place, though very small.
 
+--
+
 Under date, Twelfth Month 17th, he writes in the same letter:--
+
+[.embedded-content-document.letter]
+--
 
 We have been this day to Neuse Meeting, where my father and mother went many years;
 and a very favored meeting we had.
@@ -283,9 +323,13 @@ Our dear children are often the object of my tender solicitude.
 I want you, dear children, to do all you can to make your dear mother comfortable,
 and do nothing to grieve her.
 
+[.signed-section-closing]
 I remain affectionately,
 
+[.signed-section-signature]
 Joseph Edgerton.
+
+--
 
 At Nahunta and Neuse River, both favored meetings, particularly in the latter;
 many hearts were prepared to return praise to Zion's King.
@@ -308,7 +352,13 @@ but henceforth and forevermore.
 
 At Perquimans County, Twelfth Month 31st, 1834, he wrote:
 
-My dear Wife:--My heart is often clothed with breathing desires for our children,
+[.embedded-content-document.letter]
+--
+
+[.salutation]
+My dear Wife:
+
+My heart is often clothed with breathing desires for our children,
 that they may be kept in innocency; that as they advance in years,
 they may grow in grace.
 And, my dear, I assuredly believe your reward is sure.
@@ -320,7 +370,7 @@ which I have no doubt have been beneficial to me, as the path is a tribulated on
 and at times it seems as if every step taken is upon enchanted ground.
 But the good Shepherd has been near to support; and oh,
 that He may continue his care over me, and preserve me from dangers,
-both within and with out, for it is of his mercy; therefore,
+both within and without, for it is of his mercy; therefore,
 may the praise be ascribed unto Him alone to whom it is due.
 
 It is a comfort, notwithstanding my feelings are at times as described above,
@@ -339,7 +389,10 @@ might be kept down, and we experience Jerusalem, a quiet habitation.
 I must conclude, hoping in the Lord's time we shall be favored to meet,
 to our comfort and his praise.
 
+[.signed-section-signature]
 Joseph Edgerton.
+
+--
 
 Attended meetings at Beech Spring, Piney Ridge, Newbegun Creek,
 Little River and Symond's Creek,
@@ -361,9 +414,16 @@ and has given ability for the work whereunto He has called.
 
 After his return, he writes:
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Barnesville, Belmont County, Ohio, Second Month 7th, 1835.
 
-Dear Cousins, Thomas and Elizabeth Kennedy:--Here by my own fireside,
+[.salutation]
+Dear Cousins, Thomas and Elizabeth Kennedy:
+
+Here by my own fireside,
 and enjoying the company of my dear family and friends,
 my mind is often turned towards friends of North Carolina,
 many of whom my spirit feels nearly united to in the bonds of Gospel fellowship.
@@ -388,7 +448,7 @@ My dear friends in that part of the Lord's heritage have often been fresh in my 
 together with many favored meetings we had when in your land;
 the great Head of the Church being pleased to be near,
 bringing us as members of the same body unto near unity with each other;
-our hearts at times being made to rejoice be cause of his goodness.
+our hearts at times being made to rejoice because of his goodness.
 And those who had not come to the like happy experience,
 were often the objects of feeling concern, that they,
 through the effectual working of the Lord's power,
@@ -412,15 +472,26 @@ I should be glad to hear of Joseph Everett's endeavoring to have his negroes
 removed to free governments while life and health are afforded;
 time is very uncertain.
 
+[.signed-section-closing]
 I remain your affectionate cousin,
 
+[.signed-section-signature]
 Joseph Edgerton.
+
+--
 
 The following is taken from a copy of a letter to his valued friend, Nathan Hunt:
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Second Month 27th, 1835.
 
-Dear Friend:--I often thought when travelling through your land,
+[.salutation]
+Dear Friend:
+
+I often thought when travelling through your land,
 that the faithfulness of Friends there in regard to our testimony against slavery,
 has been blessed;
 and I think there is cause for encouragement to embrace every
@@ -429,7 +500,7 @@ to plead the cause of that oppressed part of our fellow men.
 And although your efforts in memorializing the Legislature on their
 behalf may not have met with that success which was desired,
 yet I do not think that should discourage you from doing what appears to be your duty.
-I am confirmed in the be lief that,
+I am confirmed in the belief that,
 notwithstanding all the opposition that is made by men of corrupt minds,
 the cause is gaining ground;
 even those who hold slaves are becoming more and more uneasy;
@@ -467,13 +538,16 @@ Ours progresses slowly.
 It is to be hoped, that in the course of the ensuing season,
 more active operations will be gone into for the accomplishment of the object.
 
+[.signed-section-signature]
 Joseph Edgerton.
+
+--
 
 Third Month 15th,
 1835.--In reviewing the various trials attendant on my late engagement in a distant land,
 together with the numberless blessings that I have been the unworthy partaker of,
 all within me capable of feeling,
-has been bowed in aw fulness before Him through whose fatherly care, by day and by night,
+has been bowed in awfulness before Him through whose fatherly care, by day and by night,
 preservation was experienced.
 May his great name be magnified and adored, who is the good Shepherd,
 leading forth his dependent children in the work whereunto He calls them.
@@ -502,9 +576,16 @@ who will not be ashamed to acknowledge their Lord and Master before men.
 The following is an extract from a letter addressed to John Hall,
 who accompanied him in his late visit:
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 First Month 3rd, 1836.
 
-Dear Friend, John Hall:--I have many times remembered you since being at your house,
+[.salutation]
+Dear Friend, John Hall:
+
+I have many times remembered you since being at your house,
 and feelings of sympathy and brotherly affection have been afresh excited by
 the reading of your acceptable letter to sister Mary Edgerton,
 which I was glad to have the opportunity of; and I can say,
@@ -557,13 +638,23 @@ as may be consistent with the Divine will, and much suffering is your portion,
 I have no doubt.
 My wife joins me in love to you, your dear wife and children.
 
+[.signed-section-signature]
 Joseph Edgerton.
+
+--
 
 Extract from a letter to his brother:
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Third Month 11th, 1836.
 
-Dear Brother and Sister:--I often have to recur
+[.salutation]
+Dear Brother and Sister:
+
+I often have to recur
 to opportunities that we have had together,
 before you moved to Indiana, wherein not only the ties of natural relationship were felt,
 but also that threefold cord or bond of Gospel fellowship,
@@ -612,7 +703,10 @@ which will prove a fortress against which all storms, both present and to come,
 will beat in vain, and so be found faithful in the occupancy of the talent received,
 to the peace of our own minds and to the glory of the great Name.
 
+[.signed-section-closing]
 I am your affectionate brother,
 
+[.signed-section-signature]
 Joseph Edgerton.
 
+--

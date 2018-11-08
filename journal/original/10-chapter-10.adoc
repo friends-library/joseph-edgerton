@@ -1,7 +1,7 @@
 == Chapter X.
 
-Account of a Visit to the Families of Chesterfield Monthly Meeting,
-and the Meetings of Red-Stone Quarter.
+[.chapter-synopsis]
+Account of a Visit to the Families of Chesterfield Monthly Meeting, and the Meetings of Red-Stone Quarter.
 
 Having felt my mind drawn to visit in the love of the gospel,
 the families of Chesterfield Monthly Meeting, and the meetings of Red-stone Quarter,
@@ -53,8 +53,8 @@ all within me was humbled before Him,
 with earnest petitions to be preserved near unto Him,
 who is the resurrection and the life.
 
-Sixth Month 4th.--Set out for lied stone, in company with my dear friend, Ralph Cowgill.
-Arrived in the neighborhood of Westland the 6h.and attended meetings at Westland,
+Sixth Month 4th.--Set out for Red-stone, in company with my dear friend, Ralph Cowgill.
+Arrived in the neighborhood of Westland the 6th, and attended meetings at Westland,
 Pike-Run, Sewickly, Providence, Centre and Red-stone;
 some of which were favored meetings, particularly, Providence and Centre.
 In some of the others my mind was clothed with mourning on account of
@@ -68,11 +68,19 @@ that the people may see through these snares, and make their escape!
 
 Returned home peacefully the 13th of the month, and found my dear family well.
 
-Letter to Ann Branson:
+[.embedded-content-document.letter]
+--
 
+[.letter-heading]
+Letter to Ann Branson.
+
+[.signed-section-context-open]
 First Month 13th, 1849.
 
-Dear friend Ann Branson:--Feeling my mind drawn towards
+[.salutation]
+Dear friend Ann Branson:
+
+Feeling my mind drawn towards
 thee in true Christian sympathy and gospel fellowship,
 I have been induced to pen a few lines to thee; believing that speaking one unto another,
 even in this way, when it is done from the fresh openings of the good Shepherd,
@@ -129,7 +137,10 @@ and have no doubt her exercise of spirit on behalf of herself and the church,
 comes up as a sweet memorial before God.
 Give my love affectionately to her.
 
+[.signed-section-closing]
 I conclude, and remain, I hope, thy true friend,
 
+[.signed-section-signature]
 Joseph Edgerton.
 
+--

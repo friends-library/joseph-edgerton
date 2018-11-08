@@ -1,23 +1,25 @@
 == Chapter XV.
 
-Testimony of Somerset Monthly Meeting.
-
-At Somerset Monthly Meeting, 20th of Fourth Month, 1871.
+[.chapter-synopsis]
+Testimony of Somerset Monthly Meeting. At Somerset Monthly Meeting, 20th of Fourth Month, 1871.
 
 A Testimony concerning our late beloved friend Joseph Edgerton,
 was read to our edification; which is directed to be forwarded to the Quarterly Meeting.
 
+[.signed-section-signature]
 James Edgerton and Elizabeth Livezey,  Clerks
 
+[.signed-section-context-close]
 At Stillwater Quarterly Meeting, 31st of Fifth Month, 1871.
 
 A Testimony concerning our late beloved friend Joseph Edgerton--
 approved by Somerset Monthly Meeting--was produced and read,
 and directed to the Meeting for Sufferings.
 
+[.signed-section-signature]
 Asa Garretson, and Hannah Tatum, Clerks
 
-Testimony
+=== Testimony
 
 It is instructive and encouraging to those who are passing through
 the trials and conflicts incident to a life of self-denial,
@@ -212,7 +214,6 @@ The words, "`Glory!
 Glory!
 Glory! come, Lord Jesus, come,`" were among the last that were distinctly understood;
 and soon after passed away like one falling into a sweet sleep,
-on the 30th of Tenth Month, 1805;
+on the 30th of Tenth Month, 1865;
 leaving his friends the consoling belief that he has
 entered into the mansions of everlasting rest and peace.
-

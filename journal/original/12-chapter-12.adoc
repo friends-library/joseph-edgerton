@@ -1,7 +1,7 @@
 == Chapter XII.
 
-Account of a Visit to the Meetings of Redstone, Short-Creek,
-Salem and Springfield Quarterly Meetings.
+[.chapter-synopsis]
+Account of a Visit to the Meetings of Redstone, Short-Creek, Salem and Springfield Quarterly Meetings.
 
 On the 24th of First Month, 1850, I left home in company with my dear friend,
 R+++.+++ H. Smith, having the necessary certificate, to visit the meetings of Redstone,
@@ -91,7 +91,7 @@ the necessity of recurring to first principles, and to "`stand in the ways, and 
 and ask for the old paths, where is the good way, and walk therein,`" was set forth;
 and I was favored to leave in peace.
 
-Sixth-day.--At Sandy-Spring Monthly Meeting, to satis faction;
+Sixth-day.--At Sandy-Spring Monthly Meeting, to satisfaction;
 and at an appointed meeting at Augusta the next day, which was a laborious meeting,
 in consequence of a divided state of feeling occasioned by the lack
 of a testimony against the unsound writings heretofore alluded to.
@@ -162,11 +162,19 @@ by some under our name.
 
 Found my dear family well: may the name of the Lord be praised, saith my soul.
 
-Letter to D. P.:--
+[.embedded-content-document.letter]
+--
 
+[.letter-heading]
+Letter to D. P.
+
+[.signed-section-context-open]
 Second Month 9th, 1851.
 
-Dear friend D. P.:--Thine of Ninth Month last came to hand a short time since;
+[.salutation]
+Dear friend D. P.:
+
+Thine of Ninth Month last came to hand a short time since;
 and though from one, who is, as to the outward, an entire stranger,
 it was none the less acceptable;
 the reading of which revived in me a sentiment long entertained;
@@ -226,5 +234,7 @@ expressive of my cordial reception of thine,
 together with some of my views and feelings respecting the state of our beloved Society,
 the best interests of which lie near to our hearts.
 
+[.signed-section-signature]
 Joseph Edgerton.
 
+--

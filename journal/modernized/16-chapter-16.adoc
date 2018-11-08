@@ -1,5 +1,6 @@
 == Chapter XVI.
 
+[.chapter-synopsis]
 Address to the Members of The Society of Friends.
 
 At the Meeting for Sufferings of Indiana Yearly Meeting, held at White Water,
@@ -12,13 +13,22 @@ The address thereupon was read, and satisfaction and unity with it was expressed
 It was proposed and united with that five thousand copies be
 printed for the use of the members of our Yearly Meeting.
 
+[.signed-section-closing]
 Extracted from the minutes.
 
+[.signed-section-signature]
 Thomas Evans, Clerk.
 
+[.embedded-content-document.address]
+--
+
+[.letter-heading]
 Address to the Members of the Society of Friends.
 
-Dear Friends and Brethren:--In that love and life wherein is
+[.salutation]
+Dear Friends and Brethren:
+
+In that love and life wherein is
 our union and fellowship in Christ Jesus our Lord,
 I salute you, desiring that He may enrich you with his heavenly blessings,
 and enable you to stand fast in that liberty wherewith his disciples are made free.
@@ -769,7 +779,10 @@ that God who has wrought wondrously for us.
 "`May the God of all grace, who has called us unto his eternal glory, by Christ Jesus,
 after you have suffered awhile, make you perfect, establish, strengthen, settle you.`"
 
-To Him be glory and dominion forever and ever.
-Amen.
+[.signed-section-closing]
+To Him be glory and dominion forever and ever. Amen.
 
+[.signed-section-signature]
 Joseph Edgerton.
+
+--

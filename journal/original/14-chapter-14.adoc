@@ -1,5 +1,6 @@
 == Chapter XIV.
 
+[.chapter-synopsis]
 Account of a Visit to the Meetings of Redstone, Salem and Springfield Quarterly Meetings.
 
 I left home the 25th of First Mouth, 1853, having the concurrence of my friends at home,
@@ -23,7 +24,7 @@ the tendering love of God being felt in a good degree to prevail.
 Third-day.--At Redstone and Westland; both relieving opportunities.
 At Pike Run my lot appeared to be to set an example of silence.
 
-Fifth-day.--At Providence Monthly Meeting, to satis faction.
+Fifth-day.--At Providence Monthly Meeting, to satisfaction.
 
 Sixth-day.--At the Select Quarterly Meeting;
 and at the Quarterly Meeting for Discipline the next day; which,
@@ -46,7 +47,7 @@ through the Lord's mercy, it was an open time.
 May He have the praise.
 
 Reached Middleton on Fourth-day evening,
-and at tended Monthly Meeting there the next day, where we met with our dear friend,
+and attended Monthly Meeting there the next day, where we met with our dear friend,
 Ann Branson.
 Ancient and ever lasting goodness was near, solemnizing the hearts of many.
 The meeting closed in solemn prayer.
@@ -65,7 +66,7 @@ and the Quarterly Meeting for Discipline the next day.
 Deep suffering was my portion in both on account of the great disunity
 occasioned by the reception of unsound doctrines in our midst;
 but through the Lord's unmerited mercy,
-I was strengthened to throw off the bur den wf exercise which weighed heavily upon me.
+I was strengthened to throw off the burden of exercise which weighed heavily upon me.
 
 Fourth-day.--Went to the settlement in Geauga
 County and had a meeting there the day following,
@@ -125,13 +126,13 @@ After this, however, she rallied a little, and for a time gained some strength,
 yet her sufferings continued; in the midst of which,
 she said she could adopt the language of the poet:
 
+[verse]
+____
 "`There is mercy in every place,
-
-And mercy--encouraging thought--
-
+And mercy+++--+++encouraging thought+++--+++
 Gives even affliction a grace,
-
 And reconciles man to his lot.`"
+____
 
 In the progress of her disease, she became entirely blind,
 to which great privation and trial she was, through Divine mercy, resigned, saying:
@@ -165,13 +166,17 @@ Friends composing Short-Creek Quarterly Meeting:
 and in 1858, to visit the families of Sunsbury Particular Meeting.
 In the Second Month of 1859, with the approbation of his Monthly Meeting,
 he appointed a meeting for the inhabitants of Barnesville;
-and in the Fourth Mouth following,
+and in the Fourth Month following,
 he felt his mind drawn to appoint a few meetings in Iowa,
 for which service he was liberated by his Friends at home.
 
 Under date of Eleventh Month 12th, of this year, he thus writes to his dear friend,
 Ann Branson:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Dear friend Ann Branson:
 
 In the fellowship of the gospel, I salute thee, desiring for thee as well as for myself,
@@ -228,9 +233,13 @@ excellency of this last and lasting dispensation;
 and has opened, and does open the same unto us, as we walk by the same rule,
 and mind the same thing.
 
+[.signed-section-closing]
 I am, as ever, thy friend in the Truth,
 
+[.signed-section-signature]
 Joseph Edgerton.
+
+--
 
 In 1860 he visited Pennsville Quarterly Meeting, and most,
 or all of the meetings composing it.
@@ -245,7 +254,7 @@ so far as way opened.
 In the First Month, 1862,
 he visited Pennsville Quarter and the meetings belonging thereto, as way opened for it;
 a short account of which is found in his own hand,
-as fol lows:--Having felt drawings of duty in my mind,
+as follows:--Having felt drawings of duty in my mind,
 and having the concurrence of my friends therein, I proceeded,
 in company with my dear friend, E. Bailey, towards Pennsville,
 and arrived in the neighborhood on Fourth-day evening.
@@ -277,9 +286,16 @@ May the Lord be praised for all his works.
 
 The following is an extract of a letter to some of his children, written near this time:
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 First Month, 1862.
 
-Dear children, J. and A.:--I have for some days past thought of writing to you,
+[.salutation]
+Dear children, J. and A.:
+
+I have for some days past thought of writing to you,
 but being crowded with other engagements, it has been deferred until now.
 I often think of you in that far distant land,
 and earnestly desire your preservation on every hand; and I do believe,
@@ -306,15 +322,26 @@ A minute of advice was prepared to subordinate meetings, and to our individual m
 and four hundred copies directed to be printed.
 I will send some to you when they are ready.
 
+[.signed-section-closing]
 Your affectionate father,
 
+[.signed-section-signature]
 Joseph Edgerton.
+
+--
 
 He again writes to the same, under following date, an extract being as follows:
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Seventh Month 4th, 1862.
 
-Dear children, J. and A.:--We had the reading of a letter from you today,
+[.salutation]
+Dear children, J. and A.:
+
+We had the reading of a letter from you today,
 which was very pleasant, as you are often in our thoughts,
 as well as subjects of conversation, hoping, and desiring for you as for our own souls,
 the blessing of preservation; for truly, the present is an awful day.
@@ -339,13 +366,27 @@ which are his.`"
 
 We lately went with our dear brother and daughter to St. Clairsville,
 and attended meeting there on First-day, which was very small, no doubt less than yours.
-I conclude, with love to all, as though named.
 
+[.signed-section-closing]
+I conclude, with love to all, as though named,
+
+[.signed-section-signature]
 Joseph Edgerton.
 
-Another extract of a letter to the same:--Ninth Month 9th, 1862.
+--
 
-My dear children J. and A.:--Your truly acceptable letter came duly to hand.
+Another extract of a letter to the same:
+
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
+Ninth Month 9th, 1862.
+
+[.salutation]
+My dear children J. and A.:
+
+Your truly acceptable letter came duly to hand.
 We often think of you in these awfully trying times;
 and hope you will be strengthened to keep your places,
 and uphold our Christian principles.
@@ -353,7 +394,7 @@ It seems to me that the language of the Prophet Jeremiah to Baruch,
 is applicable to us at the present day, "`Seekest thou great things for thyself:
 seek them not:
 thy life shall be given thee for a prey in all places whither thou goest.`"
-If we can be favored to witness our life given unto us, both spiritually and tempo rally;
+If we can be favored to witness our life given unto us, both spiritually and temporally;
 and can have bread to eat, and raiment to put on, we ought therewith to be content,
 and to be thankful to the great Giver of every good and perfect gift.`"
 
@@ -373,9 +414,13 @@ and avow their conscientious scruples, and adhere to them;
 that as a Society we have always borne a testimony against war;
 and may the Lord strengthen you to uphold it to the honor of his great and worthy name.
 
- From your affectionate father,
+[.signed-section-closing]
+From your affectionate father,
 
+[.signed-section-signature]
 Joseph Edgerton.
+
+--
 
 We further find that in 1863 our dear friend again felt drawn to
 visit in gospel love the Quarterly Meetings of Salem and Springfield,
@@ -387,9 +432,16 @@ which is the last service of the kind we find any account of.
 
 Two extracts of letters to his children written in this year, here follow:
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Fourth Month 17th, 1864.
 
-Dear children J. and A. E.:--We often think of you and the rest of our folks in the west.
+[.salutation]
+Dear children J. and A. E.:
+
+We often think of you and the rest of our folks in the west.
 O! how pleasant it would be to be near to you and to all our children,
 and be a comfort and strength to each other.
 
@@ -407,16 +459,27 @@ Even though we are an isolated body, not in correspondence with any other Yearly
 yet his everlasting arm will be underneath for our support,
 as we are faithful to Him who hath called us to glory, and to virtue.
 
+[.signed-section-closing]
 Your affectionate father,
 
+[.signed-section-signature]
 Joseph Edgerton.
+
+--
 
 [.asterism]
 '''
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Ninth Month 26th, 1864.
 
-Dear children, J. and A. E.:--Yours of the +++_______+++ came duly to hand, and was acceptable,
+[.salutation]
+Dear children, J. and A. E.:
+
+Yours of the +++_______+++ came duly to hand, and was acceptable,
 as it is always pleasant to hear of your welfare; and I may inform you that we are well;
 and although it will be a great trial to break up here, and leave friends and relations,
 and go into that far distant land,
@@ -424,9 +487,13 @@ yet I have believed it would be consistent with the Divine will so to do;
 trusting in the goodness and mercy of Him who hath fed me all my life long unto this day,
 both spiritually and temporally.
 
+[.signed-section-closing]
 Your affectionate father,
 
+[.signed-section-signature]
 Joseph Edgerton.
+
+--
 
 Having joined himself in marriage with Anna M. Brantingham,
 in the Fourth Month of the year 1857,
@@ -443,9 +510,16 @@ on their behalf, during the few remaining months of his life.
 
 We find two letters, which were written during this time, extracts of which here follow:
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Iowa, Fifth Month 7th, 1865.
 
-Dear children, J. and E. Thomasson:--Your very acceptable letter came duly to hand,
+[.salutation]
+Dear children, J. and E. Thomasson:
+
+Your very acceptable letter came duly to hand,
 and this may inform you that we are all well.
 We lodged last night in our own house,
 and you may suppose it was very pleasant to get to housekeeping again.
@@ -465,7 +539,7 @@ And it is with me, dear child, to say:
 cast thyself into the arms of Him who knoweth the integrity of thy heart,
 and whom it has been thy desire for years gone by,
 to serve with "`a perfect heart and a willing mind;`" and although thou may
-have lingered a little be hind for fear of going before thy Guide,
+have lingered a little behind for fear of going before thy Guide,
 and thus brought trouble and distress of mind, yet, dear child,
 remember thou art in "`very good hands,
 who is "`touched with a feeling of our infirmities,`"
@@ -498,15 +572,30 @@ under a sense of the continuance of his mercy, to say:
 "`Hitherto the Lord hath helped us.`"
 So, in dear love to you and the children, I am, as ever,
 
+[.signed-section-closing]
 Your affectionate father,
 
+[.signed-section-signature]
 Joseph Edgerton.
 
-Letter to Ann Branson:
+--
 
+[.asterism]
+'''
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
+Letter to Ann Branson.
+
+[.signed-section-context-open]
 Iowa, Seventh Month 21st, 1865.
 
-Dear friend, Ann Branson:--We heard a few days ago of thy safe arrival at home;
+[.salutation]
+Dear friend, Ann Branson:
+
+We heard a few days ago of thy safe arrival at home;
 and the feeling of love so pervades my mind, that I thought I might,
 in that liberty which the Truth gives, say,
 that thou wast often the companion of my mind during thy embassy to a foreign land;
@@ -554,11 +643,13 @@ is "`touched with a feeling of our infirmities,`"
 and is able to succor us under all our trials,
 both of flesh and spirit.
 
+[.signed-section-signature]
 Joseph Edgerton.
+
+--
 
 In the Tenth Month following the above writing,
 our dear friend was taken dangerously ill,
 and departed this life on the 30th of the same;
 a special account of which is contained in the following
 Testimony of Somerset Monthly Meeting concerning him.
-
