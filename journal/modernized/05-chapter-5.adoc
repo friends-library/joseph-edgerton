@@ -1,7 +1,7 @@
 == Chapter V.
 
 [.chapter-synopsis]
-Account of a Religious Visit to Indiana Yearly Meeting and Some of its Branches.
+* Account of a Religious Visit to Indiana Yearly Meeting and Some of its Branches.
 
 Having for some time felt my mind drawn to attend Indiana Yearly Meeting,
 also a few meetings within its limits, I left home the 19th of Ninth Month, 1840;

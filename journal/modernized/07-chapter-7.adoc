@@ -1,7 +1,7 @@
 == Chapter VII.
 
 [.chapter-synopsis]
-Account of a Visit to Salem And Springfield Quarterly Meetings, and Their Branches.
+* Account of a Visit to Salem And Springfield Quarterly Meetings, and Their Branches.
 
 Having felt my mind drawn in the love of the gospel to visit
 the meetings constituting Salem and Springfield Quarters;
