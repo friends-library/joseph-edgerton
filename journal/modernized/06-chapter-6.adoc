@@ -1,7 +1,7 @@
 == Chapter VI.
 
 [.chapter-synopsis]
-* Account of a Religious Visit to New York, Canada, and Philadelphia, Taking Baltimore Yearly Meeting on the Way.
+* Account of a religious visit to New York, Canada, and Philadelphia, taking Baltimore Yearly Meeting on the way.
 
 Having felt my mind drawn in the love of the Gospel to
 visit the meetings of New York Yearly Meeting,
@@ -23,7 +23,7 @@ First-day, 16th.--Attended Redstone Meeting,
 in which the life of religion appeared lamentably low.
 I was favored to deliver what I apprehended to be required at my hands; and left in peace.
 
-We set out on Second-day morning, 17th, towards Hope well, in Virginia,
+We set out on Second-day morning, 17th, towards Hopewell, in Virginia,
 and arrived on Fifth-day, 20th, and had a meeting at a small village called White Hall,
 the next evening; which was rather a low time; though, I trust,
 a season of instruction to some.
@@ -74,6 +74,7 @@ Fifth-day, 3rd of Eleventh Month, another public meeting was held;
 which through divine mercy was a season to be remembered.
 Truth reigned over all; and the meeting closed that evening.
 
+[.offset]
 The following is an extract of a letter to his wife written at this time:
 
 [.embedded-content-document.letter]
@@ -138,6 +139,7 @@ and appeared to be enjoying the reward therefor.
 
 10th.--Reached New York, and were kindly received by dear John Wood and family.
 
+[.offset]
 Here he again writes to his wife, of which the following is an extract:
 
 [.embedded-content-document.letter]
@@ -187,7 +189,7 @@ and out of that straight and narrow way which the feet of our forefathers,
 and the faithful from that day to this, have happily been turned into,
 is so busily at work, to sap, if it were possible, the very foundation of Quakerism;
 and has, indeed, been too successful in many instances.
-O, may the Lord continue to lead his poor dependent children;
+Oh, may the Lord continue to lead his poor dependent children;
 and show himself to be a hiding-place unto them in all their trials and deep baptisms,
 which in his own pure and perfect wisdom is seen to be
 necessary for the work whereunto they are called.
@@ -256,7 +258,7 @@ in the "`demonstration of the Spirit, and of power.`"
 Lodged at James Congden`'s, and had a meeting at his house,
 to a good degree of satisfaction.
 
-First-day, 27th.--At Nine Partners Had a meeting with the pupils in the school.
+First-day, 27th.--At Nine Partners; had a meeting with the pupils in the school.
 My Divine Master gave strength to discharge the portion of service required;
 though sadness covered my mind in viewing the
 great departures from our peculiar testimonies.
@@ -281,6 +283,7 @@ widow of our late friend and fellow-laborer in the Gospel, Henry Hull.
 We proceeded forward, and attended meetings at North-East, Little Nine Partners,
 and Hudson; then passed on to Saratoga.
 
+[.offset]
 The following is an extract of a letter to his wife, written at this time.
 
 [.embedded-content-document.letter]
@@ -320,7 +323,7 @@ I keep the run of all our meetings at home, and my spirit often visits you in th
 I believe that all the Divine promises are "`yes, and amen, forever;`" and, therefore,
 our holy Head will be in the midst of those who are gathered in his name,
 though but few in number.
-It is snowing very fast, and the weather having been winter like for some days,
+It is snowing very fast, and the weather having been winter-like for some days,
 I expect we will leave our carriage here and take a sleigh.
 
 [.signed-section-closing]
@@ -352,7 +355,7 @@ and had a meeting there on Sixth-day, in which Truth reigned over all.
 May the praise be ascribed unto Him from whom all strength comes,
 and who is worthy of all praise forever.
 
-First-day, 11th, attended a meeting at Lincoln; a time, of close labor,
+First-day, 11th, attended a meeting at Lincoln; a time of close labor,
 but felt sweet peace.
 Dined at Benjamin Tabar`'s, and had a meeting at the Creek in the evening;
 which was an open time in close labor to some lukewarm professors.
@@ -419,6 +422,7 @@ which was a renewed call on my little stock of patience,
 having felt great anxiety on account of my dear family for some weeks,
 and expecting to get letters from them, either at Le Ray or Lowville.
 
+[.offset]
 Here he wrote to his wife, the following being an extract:
 
 [.embedded-content-document.letter]
@@ -431,7 +435,7 @@ Twelfth Month 31st, 1842.
 My dearly beloved Wife:
 
 Being detained from pursuing our journey,
-in consequence of a heavy snow-storm, I think it will be best for me to write,
+in consequence of a heavy snowstorm, I think it will be best for me to write,
 though I have deferred it for sometime, hoping soon to reach Lowville,
 where I might receive a letter from you;
 as I have had no account since leaving John Wood`'s, nearly eight weeks ago.
@@ -490,7 +494,7 @@ and my eyes a fountain of tears,
 that I might weep day and night for the slain of the daughter of my people!`"
 
 Set out on the morning of the 2nd towards Lowville, a distance of one hundred miles;
-and reached the neighbor hood of Western the next evening.
+and reached the neighborhood of Western the next evening.
 Had meetings at Western, and Lee, on the 5th to good satisfaction.
 Lodged at the house of John Powel in company with Lachens Hill
 of whom it could be said as of Nathaniel of old,
@@ -512,6 +516,7 @@ in humble acquiescence with His divine will to say with Job; "`The Lord gave,
 and the Lord has taken away, blessed be the name of the Lord.`"
 We attended meetings at Le Ray and Indian River, to satisfaction.
 
+[.offset]
 Relative to the close trial above alluded to he thus writes to his family:--
 
 [.embedded-content-document.letter]
@@ -549,11 +554,10 @@ I therefore desire your encouragement and strength, as you,
 with myself have many times known the everlasting arms to be
 underneath to bear up and carry us through that which would
 have appeared impossible to human understanding.
-O, He is worthy of all praise forever, and ever, as well as our entire obedience!
+Oh, He is worthy of all praise forever, and ever, as well as our entire obedience!
 
 I feel for our dear children, knowing the severe stroke is very keenly felt by them.
-O,
-I want you to love Him who has dealt thus with us in his wisdom! though it
+Oh, I want you to love Him who has dealt thus with us in his wisdom! -though it
 is in causing us to drink the waters of "`Marah`" and affliction;
 for He is very gracious unto His children in every part of his heritage,
 and will keep them, and as they love Him more and more,
@@ -579,7 +583,7 @@ Had a meeting in a school-house in the vicinity on Seventh-day;
 and then rode to Harvey Derbyshire`'s.
 
 First-day, 15th, at Leeds meeting,
-which was an open good time in declaring the "`unsearchable riches of Christ.
+which was an open good time in declaring the "`unsearchable riches of Christ.`"
 
 16th.--Set out for Leonark, a distance of near sixty miles,
 a small number of members being there,
@@ -629,6 +633,7 @@ the Select Half Year`'s meeting was held, which was a time of close searching la
 and towards the close, Truth reigned over all.
 May praise be ascribed unto Him, who is "`Head over all things to his church.`"
 
+[.offset]
 From this place he again wrote to his family, the following being an extract thereof:
 
 [.embedded-content-document.letter]
@@ -710,12 +715,12 @@ Second-day, rode fifty miles to Pickering; a very extremely cold day.
 Third-day, at Pickering meeting, which was a favored time.
 Set out on Fourth-day for Uxbridge, and travelled about eleven miles,
 where we found the snow so drifted that we could not go forward: had to return,
-and proceeded to Yonge street, and were at a meeting there,
+and proceeded to Yonge Street, and were at a meeting there,
 where the life of religion appeared to be at a low ebb.
 
 In the evening, at White Church; and the next day at Tecumseh, to satisfaction;
 on our way to Pelham, we attended a meeting near Stony Creek on First-day evening,
-appointed by our friend Mead At water, for the colored people.
+appointed by our friend Mead Atwater, for the colored people.
 Attended the Select meeting at Pelham on Third-day;
 the meeting for discipline on Fourth-day; and the public meeting on Fifth-day;
 through all of which the Lord helped us to discharge the portion of service required.
@@ -728,8 +733,8 @@ And truly,
 on landing on the American shore I felt thankful to Him
 for his many deliverances and preservations,
 both by sea and land.
-O, may my soul forever praise Him, who is worthy to be worshipped,
-and adored by all his workmanship! and particularly,
+Oh, may my soul forever praise Him, who is worthy to be worshipped,
+and adored by all his workmanship! -and particularly,
 to be had in remembrance in the most awful humility and gratitude,
 by all those that are "`about Him.`"
 
@@ -808,6 +813,7 @@ and went from there to Scipio.
 4th.--Were at North-street and Scipio; both favored meetings, particularly the latter,
 which was a refreshing season.
 
+[.offset]
 The following is an extract of a letter to Ann Branson, written at this time:--
 
 [.embedded-content-document.letter]
@@ -831,7 +837,7 @@ have been administered for the purpose of keeping the
 poor vessel in its proper place and condition.
 May I learn more and more in the school of Christ,
 being found in that situation wherein the heavenly anthem: "`Not my will, but yours,
-O Lord, be done,`" may be adopted.
+Oh Lord, be done,`" may be adopted.
 To be baptized for the dead seems to be a very
 prominent part of the suffering meted out to us.
 
@@ -864,16 +870,17 @@ Joseph Edgerton.
 --
 
 5th.--Had a very small meeting at Skeneateles; the life of religion lamentably low.
-From there to de Ruyter,
+From there to De Ruyter,
 where Truth`'s testimony was held forth in some degree of gospel authority.
 
+[.offset]
 Here he again writes to his wife, of which the following is an extract:--
 
 [.embedded-content-document.letter]
 --
 
 [.signed-section-context-open]
-de Ruyter, Third Month 8th, 1843.
+De Ruyter, Third Month 8th, 1843.
 
 [.salutation]
 My dearly beloved Wife:
@@ -951,8 +958,9 @@ churches,`" demanding deep and awful attention,
 that we might come up faithfully as individual members of the Church; showing,
 that if ever the Church does arise and shake herself from the dust of the earth,
 and put on her beautiful garments, individual faithfulness and purity must be witnessed.
-Returned to Samuel Marriott`'s through a snow-storm.
+Returned to Samuel Marriott`'s through a snowstorm.
 
+[.offset]
 Here he again writes to his family, as follows:--
 
 [.embedded-content-document.letter]
@@ -965,7 +973,7 @@ Near Hudson, State of New York, Third Month 24th, 1843.
 Dearly beloved Wife and Children:
 
 In dear and tender love do I again salute you,
-being prevented from travelling by a heavy snow-storm,
+being prevented from travelling by a heavy snowstorm,
 which is a fresh trial of patience.
 The snow is perhaps three feet deep where it is not drifted,
 and from ten to fifteen where it is blown into lanes and roads.
@@ -1025,6 +1033,7 @@ we proceeded on our way towards New York; and on arriving, attended meetings in 
 on First-day, the 2nd of Fourth Month,
 under awful feelings of the prevalence of a spirit that is lurking in secret places.
 
+[.offset]
 Thus closes the account of this visit,
 except what is contained in the following extract of a letter,
 written after arriving at the city of Philadelphia:
@@ -1061,7 +1070,7 @@ Every opposing spirit was kept under, and the Lord magnified over all.
 May my soul forever bless and praise his holy name while I have a being.
 Dear John Wood said in the evening: "`We can say, in the language of David,
 '`This is a day which the Lord has made; we will be glad,
-and rejoice in it.`'`" "`I feel more and more my weakness and unworthiness,
+and rejoice in it.`'`" I feel more and more my weakness and unworthiness,
 and that I am an unprofitable servant indeed;
 it is through holy help alone that I am enabled to speak well of his name; for truly,
 what I am, I am by his grace.
