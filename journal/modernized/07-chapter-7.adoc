@@ -1,7 +1,7 @@
 == Chapter VII.
 
 [.chapter-synopsis]
-* Account of a Visit to Salem And Springfield Quarterly Meetings, and Their Branches.
+* Account of a visit to Salem and Springfield Quarterly Meetings, and their branches.
 
 Having felt my mind drawn in the love of the gospel to visit
 the meetings constituting Salem and Springfield Quarters;
@@ -39,7 +39,7 @@ strength being given to labor for the restoration of
 the captive sons and daughters of Zion:
 reviving the language, "`By the rivers of Babylon, there we sat down; yes,
 we wept when we remembered Zion;
-we hanged our harps upon the willows in the midst thereof;
+we hung our harps upon the willows in the midst thereof;
 for there they that carried us away captive required of us a song;
 and they that wasted us required of us mirth, saying: sing us one of the songs of Zion.
 How shall we sing the Lord`'s song in a strange land?`"
@@ -143,7 +143,7 @@ Third-day, at the meeting for discipline.
 The presence of our ever adorable Head was mercifully
 witnessed bringing into a holy solemnity.
 I felt the power of Truth gradually to arise in my heart,
-which centred me deeper and deeper in awful abasement of soul,
+which centered me deeper and deeper in awful abasement of soul,
 until it appeared to be my duty to stand up with the words,
 "`Deep calls unto deep at the noise of your waterspouts;
 all your waves and your billows are gone over me.`"
@@ -175,4 +175,5 @@ shine, for your light is come, and the glory of the Lord has risen upon you.`"
 "`Her light is come`"--"`clothed with the sun,`" and thus go forth under the
 authority of Him whose right it is to be "`Head over all things to his own church.`"
 
+[.offset]
 Thus the account of this visit closes.
