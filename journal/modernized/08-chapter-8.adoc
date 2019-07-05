@@ -1,8 +1,9 @@
 == Chapter VIII.
 
 [.chapter-synopsis]
-* Account of a Visit within the Limits of Philadelphia Yearly Meeting, In 1844; Which Concern Extended to New England; for Which Service He was Liberated by His Friends at Home; But Owing to the Well-Known Difference in our Society on Points of Doctrine which then Existed There, the Prosecution of His Concern Was Opposed; to Which He Submitted, in Accordance with Disciplinary Order, and Left His Burden with Them.
+* Account of a visit within the limits of Philadelphia Yearly Meeting, in 1844; which concern extended to New England; for which service he was liberated by his Friends at home; but owing to the well-known difference in our Society on points of doctrine which then existed there, the prosecution of his concern was opposed; to which he submitted, in accordance with disciplinary order, and left his burden with them.
 
+[.offset]
 The first account we find of his engaging in this visit,
 is contained in the following extract of a letter, written to his wife,
 after his arrival at New York:
@@ -51,6 +52,7 @@ Joseph Edgerton.
 
 --
 
+[.offset]
 Nothing appears between this letter and the following:
 
 Philadelphia, Sixth Month 28th.--Left this city in company with James R. Greeves,
@@ -133,7 +135,7 @@ the Lord`'s power being manifested, and the gospel of Christ preached, I trust,
 in the "`demonstration of the Spirit and of power;`" which, blessed be his holy name,
 reigned over all.
 Next, at Sadsbury and Bart; which were seasons of Divine favor.
-Oh, my soul! may you forever bow before Him who has dealt marvellously with you,
+Oh, my soul! May you forever bow before Him who has dealt marvellously with you,
 and yield obedience unto Him in the future steps of your pilgrimage,
 for He is worthy to be served forever and forevermore.
 
@@ -172,7 +174,7 @@ And to those in more advanced life; that they might be found faithful,
 showing forth his praise who has "`called them to glory and to virtue.`"
 The latter was an open, yet rather a laborious time;
 and at the close I felt the sentence of death within myself.
-O, how we poor finite creatures are dealt with! that no flesh may glory in his presence.
+O, how we poor finite creatures are dealt with! -that no flesh may glory in his presence.
 
 Third-day.--At Concord, where strength was afforded to discharge apprehended duty.
 The meeting closed in prayer for the blessing of
@@ -194,6 +196,7 @@ Fifth-day.--At Chichester and Chester, which were relieving opportunities.
 May the Lord`'s name be praised who is worthy forevermore.
 Lodged at the house of Jesse J. Maris.
 
+[.offset]
 Here he writes to Ann Branson, as follows:
 
 [.embedded-content-document.letter]
@@ -219,14 +222,14 @@ and to bless and praise Him for his lovingkindness to them;
 also that they have been accounted worthy to suffer for his sake; and as they thus abide,
 he will enable them to arise and "`anoint the shield,`"
 and go forth against his and their enemies.
-Ah! the work is the Lord`'s; and in every step taken the solemn language is applicable,
+Ah! The work is the Lord`'s; and in every step taken the solemn language is applicable,
 "`Who is sufficient for these things.`"
 Nothing short of divine power daily communicated,
 can renew the "`cruse,`" and qualify for the allotted portion of service.
 
 It is a day in which the ambassadors of peace have, in many places,
 to "`weep bitterly,`" under a sense of the deceivableness of unrighteousness.
-Ah! in many ways the enemy of the church is at work;
+Ah! In many ways the enemy of the church is at work;
 and perhaps in no one particular has he proved more sorrowfully successful,
 than in a worldly, deceptively delusive spirit, which is at work in the "`camp.`"
 Unwilling to bear the cross, though, at the same time,
@@ -238,8 +241,8 @@ worship and ministry;
 and thus lead back into that which our dear forefathers were gathered out of.
 
 As respects my visit to New England; I thought I felt an evidence of being in my place;
-though, of all the sea sons of suffering I ever had to endure, I think that exceeded.
-The language respecting our divine Master was very forcibly brought, to view;
+though, of all the seasons of suffering I ever had to endure, I think that exceeded.
+The language respecting our divine Master was very forcibly brought to view;
 "`He was despised and rejected of men, a man of sorrows and acquainted with grief.`"
 Also; "`It is enough for the disciple that he be as his Master,
 and the servant as his Lord.
@@ -249,7 +252,7 @@ You have, no doubt, had particulars of my visit.
 There is a remnant of faithful, honest-hearted Friends there,
 for whom I deeply felt and sympathized, having frequent opportunities with them,
 which were heart-tendering seasons.
-O! may the Lord, who knows the hearts of his people,
+O! May the Lord, who knows the hearts of his people,
 take his cause more immediately into his own hands,
 and make it more and more manifest who are his,
 that the oppressors of the seed might be brought to see
@@ -260,7 +263,7 @@ I may acknowledge that notwithstanding "`tribulations have abounded,`" I humbly 
 "`grace has also abounded;`" having been favored to get along thus far,
 in the limits of this Yearly Meeting to the relief and peace of my own mind;
 which I more and more feel to be of divine mercy.
-Oh! it seems to me more clearly than ever before
+Oh! It seems to me more clearly than ever before
 that this treasure is in earthen vessels;
 vouchsafed unto us for the honor of his own eternal name,
 that the excellency of the power may evidently appear to be of God, and not of us:
@@ -271,7 +274,7 @@ These are born of the incorruptible seed, and can,
 and do suffer for and with each other; and with their divine Master for the body`'s sake,
 which is the church;
 and therefore in due time He will be unto them the "`resurrection and the life.`"
-O! may you, and all the Lord`'s faithful servants be encouraged,
+O! May you, and all the Lord`'s faithful servants be encouraged,
 devotedly to persevere in his service;
 for such may rest assured He will keep them in the "`hollow of
 his holy hand,`" and "`no evil shall befall them,
@@ -306,6 +309,7 @@ where I met with dear Hannah Gibbons, who is a lively-spirited handmaid of the L
 Arrived in the city in the evening, and lodged at the house of my kind companion,
 James R. Greeves.
 
+[.offset]
 Thus closes the account of this visit,
 except what is contained in the following extract of a letter to his wife:
 
@@ -463,7 +467,7 @@ from a lack of tender love and sympathy for you,
 and many other dear Friends in that part of the heritage;
 but as the matter has revived this morning, with some degree of sweetness,
 I very willingly communicate the desire of my heart for
-your and your preservation in the unchangeable Truth;
+you and your preservation in the unchangeable Truth;
 believing that He who gathered us in the beginning from the many forms and ceremonies,
 instituted by the wisdom, and in the will of man, into the covenant of light and life,
 as we are faithful to Him, will never leave nor forsake us.
@@ -540,7 +544,7 @@ The poor tribulated followers of the Lamb are favored
 to feel one for another in their respective allotments;
 to drink together of the same cup, though it may be that of affliction:
 and sometimes even the "`wine of astonishment`" may be therein.
-O! if it were not for the mercy and compassionate regard of our holy "`high
+O! If it were not for the mercy and compassionate regard of our holy "`high
 priest and advocate with the Father,`" what would become of us?
 He knows our frame; that we are but dust.
 
@@ -549,7 +553,7 @@ we cannot doubt the faithfulness of the Lord;
 though He may cause to "`pass through the waters.`"
 His presence, though unseen by us,
 will be near to bear up and thus qualify his servants and handmaids for his service.
-Ah! it is through "`deaths oft`" that they are brought into a capacity,
+Ah! It is through "`deaths oft`" that they are brought into a capacity,
 in which the King Eternal sees fit to entrust them with his treasures:
 like the "`good scribe`" bringing "`forth out of his treasure things new and old:`"--new,
 because in the fresh openings of divine life: and old, because it is of,
