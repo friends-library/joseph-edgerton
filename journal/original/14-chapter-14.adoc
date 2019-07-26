@@ -84,8 +84,7 @@ Second-day.--At Carmel,
 where the blessed Master was pleased to qualify
 to declare the "`unsearchable riches of Christ.`"
 
-[.asterism]
-'''
+[.small-break]
 
 From this time forward but little account of the life and religious
 labors of our dear friend appears to have been kept by his own hand;
@@ -241,7 +240,6 @@ Joseph Edgerton.
 
 --
 
-[.offset]
 In 1860 he visited Pennsville Quarterly Meeting, and most,
 or all of the meetings composing it.
 Also, in the same year, he visited in gospel love,
@@ -254,6 +252,8 @@ so far as way opened. In the First Month, 1862,
 he visited Pennsville Quarter and the meetings belonging thereto, as way opened for it;
 a short account of which is found in his own hand,
 as follows:
+
+[.small-break]
 
 Having felt drawings of duty in my mind,
 and having the concurrence of my friends therein, I proceeded,
@@ -426,7 +426,6 @@ Joseph Edgerton.
 
 --
 
-[.offset]
 We further find that in 1863 our dear friend again felt drawn to
 visit in gospel love the Quarterly Meetings of Salem and Springfield,
 and was liberated for the service accordingly;
@@ -435,7 +434,6 @@ and in the same year he again visited Pennsville Quarterly Meeting,
 and the meetings belonging thereto;
 which is the last service of the kind we find any account of.
 
-[.offset]
 Two extracts of letters to his children written in this year, here follow:
 
 [.embedded-content-document.letter]
@@ -498,7 +496,6 @@ Joseph Edgerton.
 
 --
 
-[.offset]
 Having joined himself in marriage with Anna M. Brantingham,
 in the Fourth Month of the year 1857,
 as appears in the testimony of Somerset Monthly Meeting concerning him,
@@ -512,7 +509,6 @@ but his sojourn amongst his friends and relatives there was of short duration;
 yet it appears he was frequently and fervently engaged in the exercise of his gift,
 on their behalf, during the few remaining months of his life.
 
-[.offset]
 We find two letters, which were written during this time, extracts of which here follow:
 
 [.embedded-content-document.letter]
@@ -585,9 +581,6 @@ Joseph Edgerton.
 
 --
 
-[.asterism]
-'''
-
 [.embedded-content-document.letter]
 --
 
@@ -653,7 +646,6 @@ Joseph Edgerton.
 
 --
 
-[.offset]
 In the Tenth Month following the above writing,
 our dear friend was taken dangerously ill,
 and departed this life on the 30th of the same;
