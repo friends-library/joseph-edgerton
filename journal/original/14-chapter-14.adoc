@@ -1,9 +1,9 @@
 == Chapter XIV.
 
 [.chapter-synopsis]
-* Account of a Visit to the Meetings of Redstone, Salem and Springfield Quarterly Meetings.
+* Account of a visit to the meetings of Redstone, Salem and Springfield Quarterly Meetings.
 
-I left home the 25th of First Mouth, 1853, having the concurrence of my friends at home,
+I left home the 25th of First Month, 1853, having the concurrence of my friends at home,
 in order to perform a religious visit to the meetings of Redstone,
 Salem and Springfield Quarters.
 Arrived at Westland on the evening of the 27th. The next day, rode to Brownsville,
@@ -84,9 +84,7 @@ Second-day.--At Carmel,
 where the blessed Master was pleased to qualify
 to declare the "`unsearchable riches of Christ.`"
 
-[.asterism]
-'''
-
+[.small-break]
 From this time forward but little account of the life and religious
 labors of our dear friend appears to have been kept by his own hand;
 or, if so, it cannot be found.
@@ -217,7 +215,7 @@ I desire that I may be favored to do my duty faithfully;
 and as it is my desire for myself, so it is for all the Lord`'s faithful children.
 O! it is no wonder if these feel something like that described by the Psalmist;
 "`By the rivers of Babylon, there we sat down; yea, we wept when we remembered Zion;
-we hanged our harps upon the willows in the midst thereof.`"
+we hung our harps upon the willows in the midst thereof.`"
 But as we keep our ranks in righteousness,
 whether a state of suffering or rejoicing be our portion;
 in a day that is approaching we shall be accepted in the Beloved.
@@ -228,7 +226,7 @@ still regardeth the low estate of his children; and when He maketh up his jewels
 "`He will spare them as a man spareth his own son that serveth him.`"
 
 Oh! blessed and praised be the name of Israel`'s God for his abundant mercy,
-in opening to our worthy fore fathers the beauty and
+in opening to our worthy forefathers the beauty and
 excellency of this last and lasting dispensation;
 and has opened, and does open the same unto us, as we walk by the same rule,
 and mind the same thing.
@@ -249,14 +247,15 @@ In 1861, he visited the Quarterly Meetings of Redstone and Pennsville,
 and some of their branches;
 and in the latter part of the same year he performed a visit
 to the families of Friends of his own Monthly Meeting,
-so far as way opened.
-
-In the First Month, 1862,
+so far as way opened. In the First Month, 1862,
 he visited Pennsville Quarter and the meetings belonging thereto, as way opened for it;
 a short account of which is found in his own hand,
-as follows:--Having felt drawings of duty in my mind,
+as follows:
+
+[.small-break]
+Having felt drawings of duty in my mind,
 and having the concurrence of my friends therein, I proceeded,
-in company with my dear friend, E. Bailey, towards Pennsville,
+in company with my dear friend, Edmund Bailey, towards Pennsville,
 and arrived in the neighborhood on Fourth-day evening.
 
 Fifth-day.--Attended Monthly Meeting there, which was,
@@ -284,6 +283,7 @@ and the doctrines and testimonies which Truth led our forefathers into, explaine
 to the peace of my own mind.
 May the Lord be praised for all his works.
 
+[.offset]
 The following is an extract of a letter to some of his children, written near this time:
 
 [.embedded-content-document.letter]
@@ -376,6 +376,7 @@ Joseph Edgerton.
 
 --
 
+[.offset]
 Another extract of a letter to the same:
 
 [.embedded-content-document.letter]
@@ -515,7 +516,7 @@ We find two letters, which were written during this time, extracts of which here
 Iowa, Fifth Month 7th, 1865.
 
 [.salutation]
-Dear children, J. and E. Thomasson:
+Dear children, John and E. Thomasson:
 
 Your very acceptable letter came duly to hand,
 and this may inform you that we are all well.
@@ -578,9 +579,6 @@ Joseph Edgerton.
 
 --
 
-[.asterism]
-'''
-
 [.embedded-content-document.letter]
 --
 
@@ -613,7 +611,7 @@ O Lord! and give not thine heritage to reproach,`"
 
 Oh, there is need for Friends to keep their ranks in righteousness,
 and not be drawn aside from a faithful,
-up right maintenance of the doctrines and testimonies which have distinguished the
+upright maintenance of the doctrines and testimonies which have distinguished the
 living members of our Society from its first rise to the present time.
 I see no reason why Friends should now desert the cause,
 or in any way connive at these departures from primitive Quakerism,

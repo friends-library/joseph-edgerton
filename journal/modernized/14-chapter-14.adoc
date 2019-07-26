@@ -1,9 +1,9 @@
 == Chapter XIV.
 
 [.chapter-synopsis]
-* Account of a Visit to the Meetings of Redstone, Salem and Springfield Quarterly Meetings.
+* Account of a visit to the meetings of Redstone, Salem and Springfield Quarterly Meetings.
 
-I left home the 25th of First Mouth, 1853, having the concurrence of my friends at home,
+I left home the 25th of First Month, 1853, having the concurrence of my friends at home,
 in order to perform a religious visit to the meetings of Redstone,
 Salem and Springfield Quarters.
 Arrived at Westland on the evening of the 27th. The next day, rode to Brownsville,
@@ -159,7 +159,7 @@ while we look not at the things which are seen, but at the things which are not 
 "`For we know that if our earthly house of this tabernacle were dissolved,
 we have a building of God--a house not made with hands, eternal in the heavens.`"
 
-But to return to the religious services of the subject of this Memoir, we find,
+But to return to the religious services of the subject of this memoir, we find,
 that in 1856,
 he was liberated to visit the families of
 Friends composing Short-Creek Quarterly Meeting:
@@ -189,7 +189,7 @@ These seasons are no doubt intended by Him who is "`wonderful in counsel,
 and excellent in working;`" to sustain through the
 trials which are permitted to attend their path;
 even as it was with the servant of the Lord in old time,
-when he laid himself down under a Juniper tree,
+when he laid himself down under a juniper tree,
 and requested for himself that he might die; and as he lay and slept,
 the angel of the Lord fed him with bread and water,
 and he went in the strength thereof forty days;
@@ -215,9 +215,9 @@ that we have.
 But while I mourn over our present condition,
 I desire that I may be favored to do my duty faithfully;
 and as it is my desire for myself, so it is for all the Lord`'s faithful children.
-O! it is no wonder if these feel something like that described by the Psalmist;
+O! It is no wonder if these feel something like that described by the Psalmist;
 "`By the rivers of Babylon, there we sat down; yes, we wept when we remembered Zion;
-we hanged our harps upon the willows in the midst thereof.`"
+we hung our harps upon the willows in the midst thereof.`"
 But as we keep our ranks in righteousness,
 whether a state of suffering or rejoicing be our portion;
 in a day that is approaching we shall be accepted in the Beloved.
@@ -227,8 +227,8 @@ believing that He who has called us, still regards the low estate of his childre
 and when He makes up his jewels,
 "`He will spare them as a man spares his own son that serves him.`"
 
-Oh! blessed and praised be the name of Israel`'s God for his abundant mercy,
-in opening to our worthy fore fathers the beauty and
+Oh! Blessed and praised be the name of Israel`'s God for his abundant mercy,
+in opening to our worthy forefathers the beauty and
 excellency of this last and lasting dispensation;
 and has opened, and does open the same unto us, as we walk by the same rule,
 and mind the same thing.
@@ -249,14 +249,15 @@ In 1861, he visited the Quarterly Meetings of Redstone and Pennsville,
 and some of their branches;
 and in the latter part of the same year he performed a visit
 to the families of Friends of his own Monthly Meeting,
-so far as way opened.
-
-In the First Month, 1862,
+so far as way opened. In the First Month, 1862,
 he visited Pennsville Quarter and the meetings belonging thereto, as way opened for it;
 a short account of which is found in his own hand,
-as follows:--Having felt drawings of duty in my mind,
+as follows:
+
+[.small-break]
+Having felt drawings of duty in my mind,
 and having the concurrence of my friends therein, I proceeded,
-in company with my dear friend, E. Bailey, towards Pennsville,
+in company with my dear friend, Edmund Bailey, towards Pennsville,
 and arrived in the neighborhood on Fourth-day evening.
 
 Fifth-day.--Attended Monthly Meeting there, which was,
@@ -284,6 +285,7 @@ and the doctrines and testimonies which Truth led our forefathers into, explaine
 to the peace of my own mind.
 May the Lord be praised for all his works.
 
+[.offset]
 The following is an extract of a letter to some of his children, written near this time:
 
 [.embedded-content-document.letter]
@@ -346,7 +348,7 @@ We had the reading of a letter from you today,
 which was very pleasant, as you are often in our thoughts,
 as well as subjects of conversation, hoping, and desiring for you as for our own souls,
 the blessing of preservation; for truly, the present is an awful day.
-Oh! that all of us may, by watching unto prayer,
+Oh!--that all of us may, by watching unto prayer,
 be preserved from everything that would dim the beauty of Zion,
 or obstruct our own peace.
 
@@ -376,6 +378,7 @@ Joseph Edgerton.
 
 --
 
+[.offset]
 Another extract of a letter to the same:
 
 [.embedded-content-document.letter]
@@ -442,17 +445,17 @@ Fourth Month 17th, 1864.
 Dear children J. and A. E.:
 
 We often think of you and the rest of our folks in the west.
-O! how pleasant it would be to be near to you and to all our children,
+O! How pleasant it would be to be near to you and to all our children,
 and be a comfort and strength to each other.
 
 You are now differently circumstanced from what you have been;
 mingling in a neighborhood of old acquaintance, many of whom, I trust,
 are desirous to be found living up to our high and holy profession.
-O! that it might be so with all in that land as well as in this;
+O!--that it might be so with all in that land as well as in this;
 for many eyes are upon us, and if we could be favored to live up to our profession,
 we should be kept within the holy enclosure, where no "`evil could befall,
 nor plague come nigh.`"
-O, for this place of safety! the "`munitions of rocks,`" where "`bread may be given`" us,
+O, for this place of safety!--the "`munitions of rocks,`" where "`bread may be given`" us,
 and our "`waters be sure.`"
 
 Even though we are an isolated body, not in correspondence with any other Yearly Meeting,
@@ -514,7 +517,7 @@ We find two letters, which were written during this time, extracts of which here
 Iowa, Fifth Month 7th, 1865.
 
 [.salutation]
-Dear children, J. and E. Thomasson:
+Dear children, John and E. Thomasson:
 
 Your very acceptable letter came duly to hand,
 and this may inform you that we are all well.
@@ -578,9 +581,6 @@ Joseph Edgerton.
 
 --
 
-[.asterism]
-'''
-
 [.embedded-content-document.letter]
 --
 
@@ -596,7 +596,7 @@ Dear friend, Ann Branson:
 We heard a few days ago of your safe arrival at home;
 and the feeling of love so pervades my mind, that I thought I might,
 in that liberty which the Truth gives, say,
-that you were often the companion of my mind during your embassy to a foreign land;
+that you were often the companion of my mind during your mission to a foreign land;
 and I did believe that your divine Lord and Master,
 who called you forth into that service, would be with you,
 and keep you in the hollow of his holy hand,
@@ -609,11 +609,11 @@ that there is great need of a deeper indwelling of soul before the Lord,
 on the part of many among us;
 on which account those who are waiting for the consolation of Israel, like Simeon of old,
 are often bowed down, and can adopt the language: "`Spare your people,
-O Lord! and give not your heritage to reproach,`"
+O Lord!--and give not your heritage to reproach,`"
 
 Oh, there is need for Friends to keep their ranks in righteousness,
 and not be drawn aside from a faithful,
-up right maintenance of the doctrines and testimonies which have distinguished the
+upright maintenance of the doctrines and testimonies which have distinguished the
 living members of our Society from its first rise to the present time.
 I see no reason why Friends should now desert the cause,
 or in any way connive at these departures from primitive Quakerism,
