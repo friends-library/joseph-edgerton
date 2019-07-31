@@ -1,17 +1,23 @@
 == Chapter XVI.
 
 [.chapter-synopsis]
-* Address to the Members of The Society of Friends.
+* Address to the Members of the Society of Friends.
 
+[.signed-section-context-open]
 At the Meeting for Sufferings of Indiana Yearly Meeting, held at White Water,
 near Richmond, Wayne County, Indiana, Ninth Month 27th, 1841.
 
-A copy of the following Address to the Members of the religious Society of Friends,
+[.embedded-content-document.minute]
+--
+
+A copy of the following Address to the Members of the Religious Society of Friends,
 by Joseph Edgerton, was received from the Meeting for Sufferings of Ohio Yearly Meeting,
 and a minute of that meeting, stating that the address had been examined and approved.
 The address thereupon was read, and satisfaction and unity with it was expressed.
 It was proposed and united with that five thousand copies be
 printed for the use of the members of our Yearly Meeting.
+
+--
 
 [.signed-section-closing]
 Extracted from the minutes.
@@ -19,7 +25,7 @@ Extracted from the minutes.
 [.signed-section-signature]
 Thomas Evans, Clerk.
 
-[.embedded-content-document.address]
+[.embedded-content-document.epistle]
 --
 
 [.letter-heading]
@@ -47,7 +53,7 @@ of his gracious regard as have been extended to us as people,
 from one generation to another.
 When our forefathers, through a powerful visitation from on high to their souls,
 were drawn from the lifeless forms and ceremonies that had
-crept into the Church during a long night of apostacy,
+crept into the Church during a long night of apostasy,
 and in a true hunger and thirst after righteousness, met together in small assemblies,
 reverently to wait upon Christ Jesus, the true Teacher of the children of men,
 they found to their great comfort that which they sought after.
@@ -495,7 +501,7 @@ has been an inlet to very great weakness in the church.
 Individuals have risen up, and obtained considerable influence,
 not from religious weight and feeling, but from good natural parts,
 and their quickness of understanding the letter of discipline,
-and are even sticklers too, in the observance thereof.
+and are even sticklers, too, in the observance thereof.
 Yet such not having experienced the one baptism,
 whereby all the living members of the body are
 raised from dead works to serve the living God,
@@ -725,7 +731,7 @@ Be diligent herein, not only in a collective manner in your respective families,
 but in a more private way, that you may grow in grace.
 Next to these read the approved writings of our religious Society,
 that you may be familiar with its history,
-and the different testimonies which have been upheld by us from the be ginning, hitherto.
+and the different testimonies which have been upheld by us from the beginning, hitherto.
 Thus will you become acquainted with the upright zeal with
 which our dear forefathers were strengthened earnestly to
 contend for the faith once delivered to the saints;
@@ -739,7 +745,7 @@ Nay, in all these things we are more than conquerors through Him that loved us.
 For I am persuaded that neither death, nor life, nor angels, nor principalities,
 nor powers, nor things present, nor things to come, nor height, nor depth,
 nor any other creature shall be able to separate us
-from the love of God which is in Christ Jesus our Lord.`
+from the love of God which is in Christ Jesus our Lord.`"
 In the end they were favored with a blessed assurance of a glorious immortality,
 and could adopt the language, "`O death, where is thy sting?
 O grave, where is thy victory?`"
